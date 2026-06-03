@@ -1,0 +1,127 @@
+[     307ms] Unexpected token '<'
+[     229ms] [LOG] ############ inside initStorage ############## @ https://www.reliancedigital.in/public/clickstream.js:9
+[     231ms] [LOG] ########### inside response interceptor ############# @ https://www.reliancedigital.in/public/clickstream.js:9
+[     308ms] [WARNING] Could not set dynamic CDN path @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[     383ms] [LOG] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at n._publish (https://www.reliancedigital.in/:220:3267)
+    at d.HYDRATE_APP_META (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:18:12535)
+    at Array.<anonymous> (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:1:49521)
+    at d.dispatch (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:7:1047)
+    at d.dispatch (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:1:46752)
+    at Module.<anonymous> (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:29:39270)
+    at a (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:1:1551)
+    at https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:1:5102
+    at https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:1:5166 @ https://www.reliancedigital.in/:219
+[     676ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.reliancedigital.in/api/service/application/user/authentication/v1.0/session:0
+[     736ms] [LOG] mounted @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[     738ms] [LOG] not webview @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[     739ms] [LOG] 645a057875d8c4882b096f7e context in header @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[     741ms] [LOG] this.$route?.meta?.available_page_slug home @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[     745ms] [LOG] CleverTap [1776361871156]: CleverTap info: 545: Null value for key 'Scroll %' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[     747ms] [LOG] mounted @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[     748ms] [LOG] not webview @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[     750ms] [LOG] 645a057875d8c4882b096f7e context in header @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[     752ms] [LOG] this.$route?.meta?.available_page_slug home @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[     760ms] [LOG] CleverTap [1776361871171]: CleverTap info: 545: Null value for key 'Scroll %' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[     816ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://platform.jioretailer.com') does not match the recipient window's origin ('https://www.reliancedigital.in'). @ https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:28
+[     840ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1433
+[     848ms] [WARNING] Element with name "gmp-internal-loading-text" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     848ms] [WARNING] Element with name "gmp-internal-request-error-text" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     849ms] [WARNING] Element with name "gmp-internal-back-button" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     849ms] [WARNING] Element with name "gmp-internal-dialog" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     849ms] [WARNING] Element with name "gmp-internal-disclosure" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     849ms] [WARNING] Element with name "gmp-internal-disclosure-section" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     849ms] [WARNING] Element with name "gmp-internal-attribution" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     850ms] [WARNING] Element with name "gmp-internal-element-support-verification" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     850ms] [ERROR] You have included the Google Maps JavaScript API multiple times on this page. This may cause unexpected errors. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1440
+[     850ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1433
+[     857ms] [WARNING] Element with name "gmp-internal-rating" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     857ms] [WARNING] Element with name "gmp-place-all-content" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     858ms] [WARNING] Element with name "gmp-internal-link-button" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     858ms] [WARNING] Element with name "gmp-internal-menu" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     859ms] [WARNING] Element with name "gmp-internal-place-opening-hours" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     859ms] [WARNING] Element with name "gmp-internal-place-review" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     859ms] [WARNING] Element with name "gmp-internal-tabbed-layout" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     859ms] [WARNING] Element with name "gmp-internal-lightbox" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     859ms] [WARNING] Element with name "gmp-internal-collage" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     859ms] [WARNING] Element with name "gmp-internal-place-rating-summary" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     860ms] [WARNING] Element with name "gmp-place-content-config" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     860ms] [WARNING] Element with name "gmp-place-standard-content" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     860ms] [WARNING] Element with name "gmp-internal-place-basic-info" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     861ms] [WARNING] Element with name "gmp-place-details-location-request" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     861ms] [WARNING] Element with name "gmp-place-details-place-request" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     861ms] [WARNING] Element with name "gmp-internal-circular-loader" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     861ms] [WARNING] Element with name "gmp-place-details-compact" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     862ms] [WARNING] Element with name "gmp-internal-use-place-details-compact" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     862ms] [WARNING] Element with name "gmp-place-media" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     862ms] [WARNING] Element with name "gmp-place-address" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     862ms] [WARNING] Element with name "gmp-place-rating" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     863ms] [WARNING] Element with name "gmp-place-type" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     863ms] [WARNING] Element with name "gmp-place-price" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     863ms] [WARNING] Element with name "gmp-place-accessible-entrance-icon" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     863ms] [WARNING] Element with name "gmp-place-open-now-status" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     863ms] [WARNING] Element with name "gmp-place-attribution" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     863ms] [WARNING] Element with name "gmp-place-website" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     863ms] [WARNING] Element with name "gmp-place-phone-number" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     864ms] [WARNING] Element with name "gmp-place-opening-hours" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     864ms] [WARNING] Element with name "gmp-place-summary" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     864ms] [WARNING] Element with name "gmp-place-type-specific-highlights" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     864ms] [WARNING] Element with name "gmp-place-review-summary" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     864ms] [WARNING] Element with name "gmp-place-reviews" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     864ms] [WARNING] Element with name "gmp-place-plus-code" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     865ms] [WARNING] Element with name "gmp-place-feature-list" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     865ms] [WARNING] Element with name "gmp-place-details" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     865ms] [WARNING] Element with name "gmp-internal-place-carousel" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     865ms] [WARNING] Element with name "gmp-internal-place-search-list-item" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     866ms] [WARNING] Element with name "gmp-place-nearby-search-request" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     866ms] [WARNING] Element with name "gmp-place-text-search-request" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     867ms] [WARNING] Element with name "gmp-place-search" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     868ms] [WARNING] Element with name "gmp-map" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     868ms] [WARNING] Element with name "gmp-place-autocomplete" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[     869ms] [WARNING] Element with name "gmp-basic-place-autocomplete" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1331
+[    1221ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.reliancedigital.in/:0
+[    1382ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.reliancedigital.in/ext/raven-api/resq/rcp-list?page_no=1&page_size=10:0
+[    1836ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.reliancedigital.in/ext/raven-api/resq/rcp-list?page_no=1&page_size=10:0
+[    2222ms] [LOG] GA4 Client ID: 361505150.1776361778 @ https://www.reliancedigital.in/:413
+[    2222ms] [LOG] GA4 Session ID: 1776361778 @ https://www.reliancedigital.in/:420
+[    2845ms] [LOG] CleverTap [1776361873256]: CleverTap info: 545: Null value for key 'User_ID' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[    2845ms] [LOG] CleverTap [1776361873257]: CleverTap info: 545: Null value for key 'section_name' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[    5864ms] Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'UJ')
+    at <anonymous> (https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1435:190)
+[  282467ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.reliancedigital.in/ext/raven-api/resq/rcp-list?page_no=1&page_size=5&q=iphone+15+128gb:0
+[  282624ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.reliancedigital.in/ext/raven-api/resq/rcp-list?page_no=1&page_size=5&query=iphone+15+128gb:0
+[  282797ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.reliancedigital.in/ext/raven-api/resq/rcp-list?page_no=1&page_size=5&keyword=iphone+15+128gb:0
+[  300704ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.reliancedigital.in/api/service/application/catalog/v1.0/search/?q=iphone+15+128gb&page_no=1&page_size=5:0
+[  300801ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.reliancedigital.in/api/service/application/catalog/v2.0/search/?q=iphone+15+128gb&page_no=1&page_size=5:0
+[  352225ms] [LOG] CleverTap [1776362222636]: CleverTap info: 545: Null value for key 'User_ID' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[  352355ms] [LOG] watch handleHeaderSpace @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[  352364ms] [LOG] watch handleHeaderSpace @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[  352381ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://platform.jioretailer.com') does not match the recipient window's origin ('https://www.reliancedigital.in'). @ https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:28
+[  352560ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.reliancedigital.in/ext/raven-api/resq/rcp-list?page_no=1&page_size=10:0
+[  352910ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.reliancedigital.in/ext/raven-api/resq/rcp-list?page_no=1&page_size=10:0
+[  352919ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.reliancedigital.in/products?q=iphone%2015%20128gb:0
+[  352942ms] [LOG] plp context:  {product_meta: Object, is_logged_in: false, favourite_ids: Array(0), compare_slugs: Array(0), page: Object} @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.ProductListing.js:0
+[  352966ms] [LOG] CleverTap [1776362223378]: CleverTap info: 545: Null value for key 'User_ID' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[  352967ms] [LOG] CleverTap [1776362223378]: CleverTap info: 545: Null value for key 'section_name' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[  353001ms] [LOG] CleverTap [1776362223413]: CleverTap info: 545: Null value for key 'User_ID' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[  353002ms] [LOG] CleverTap [1776362223413]: CleverTap info: 545: Null value for key 'section_name' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[  353058ms] [LOG] watch handleHeaderSpace @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[  353064ms] [LOG] watch handleHeaderSpace @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[  353069ms] [LOG] plp context:  {product_meta: Object, is_logged_in: false, favourite_ids: Array(0), compare_slugs: Array(0), page: Object} @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.ProductListing.js:0
+[  353081ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://platform.jioretailer.com') does not match the recipient window's origin ('https://www.reliancedigital.in'). @ https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:28
+[  353235ms] [LOG] CleverTap [1776362223646]: CleverTap info: 545: Null value for key 'User_ID' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[  353235ms] [LOG] CleverTap [1776362223647]: CleverTap info: 545: Null value for key 'section_name' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[  353267ms] [LOG] CleverTap [1776362223679]: CleverTap info: 545: Null value for key 'User_ID' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[  353268ms] [LOG] CleverTap [1776362223679]: CleverTap info: 545: Null value for key 'section_name' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[  353288ms] [LOG] plp context {product_meta: Object, is_logged_in: false, favourite_ids: Array(0), compare_slugs: Array(0), page: Object} @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.ProductListing.js:0
+[  353424ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.reliancedigital.in/ext/raven-api/resq/rcp-list?page_no=1&page_size=10:0
+[  353559ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.reliancedigital.in/ext/raven-api/resq/rcp-list?page_no=1&page_size=10:0
+[  353721ms] [LOG] plp context:  {product_meta: Object, is_logged_in: false, favourite_ids: Array(0), compare_slugs: Array(0), page: Object} @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.ProductListing.js:0
+[  353734ms] [LOG] CleverTap [1776362224145]: CleverTap info: 545: Null value for key 'User_ID' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[  353734ms] [LOG] CleverTap [1776362224145]: CleverTap info: 545: Null value for key 'section_name' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[  353759ms] [LOG] CleverTap [1776362224171]: CleverTap info: 545: Null value for key 'User_ID' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[  353760ms] [LOG] CleverTap [1776362224171]: CleverTap info: 545: Null value for key 'section_name' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[  354229ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.reliancedigital.in/products?q=iphone%2015%20128gb&page_no=1&page_size=12&page_type=number:0
+[  355144ms] [LOG] Skipping API call: Empty final context @ https://static.saleassist.ai/widgets/widget.js:1
+[  360412ms] [INFO] key flickEvents deleted from localStorage @ https://www.reliancedigital.in/public/clickstream.js:9

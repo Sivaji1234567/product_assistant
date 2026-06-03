@@ -1,0 +1,1311 @@
+- generic [ref=e3]:
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - link "Flipkart" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Flipkart" [ref=e11]
+      - link "Explore Plus" [ref=e12] [cursor=pointer]:
+        - /url: /plus
+        - text: Explore Plus
+        - img [ref=e13]
+    - generic [ref=e16]:
+      - textbox "Search for products, brands and more" [ref=e18]: iphone 15 128gb
+      - button [ref=e19] [cursor=pointer]:
+        - img [ref=e20]
+    - link "Login" [ref=e28] [cursor=pointer]:
+      - /url: /account/login?ret=/search%3Fq%3Diphone%2B15%2B128gb%26otracker%3Dsearch
+    - link "Become a Seller" [ref=e30] [cursor=pointer]:
+      - /url: https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect
+      - generic [ref=e31]: Become a Seller
+    - generic [ref=e33] [cursor=pointer]:
+      - generic [ref=e36]: More
+      - img [ref=e37]
+    - link "Cart" [ref=e42] [cursor=pointer]:
+      - /url: /viewcart?exploreMode=true&preference=FLIPKART
+      - img [ref=e43]
+      - generic [ref=e45]: Cart
+  - generic [ref=e50]:
+    - generic [ref=e51] [cursor=pointer]:
+      - text: Electronics
+      - img [ref=e52]
+    - generic [ref=e54] [cursor=pointer]:
+      - text: TVs & Appliances
+      - img [ref=e55]
+    - generic [ref=e57] [cursor=pointer]:
+      - text: Men
+      - img [ref=e58]
+    - generic [ref=e60] [cursor=pointer]:
+      - text: Women
+      - img [ref=e61]
+    - generic [ref=e63] [cursor=pointer]:
+      - text: Baby & Kids
+      - img [ref=e64]
+    - generic [ref=e66] [cursor=pointer]:
+      - text: Home & Furniture
+      - img [ref=e67]
+    - generic [ref=e69] [cursor=pointer]:
+      - text: Sports, Books & More
+      - img [ref=e70]
+    - link "Flights" [ref=e72] [cursor=pointer]:
+      - /url: /travel/flights?otracker=nmenu_Flights
+    - link "Offer Zone" [ref=e73] [cursor=pointer]:
+      - /url: /offers-list/top-deals?screen=dynamic&pk=themeViews%3DDT-OMU-A2%3ADT-OMU~widgetType%3DdealCard~contentType%3Dneo&otracker=nmenu_offer-zone
+  - generic [ref=e74]:
+    - generic [ref=e75]:
+      - generic [ref=e77]:
+        - generic [ref=e79]:
+          - generic [ref=e82]: Filters
+          - generic [ref=e84]:
+            - generic [ref=e85]: CATEGORIES
+            - generic [ref=e87]:
+              - img [ref=e89] [cursor=pointer]
+              - link "Mobiles & Accessories" [ref=e91] [cursor=pointer]:
+                - /url: /mobiles-accessories/pr?sid=tyy&q=iphone+15+128gb&otracker=categorytree
+            - generic [ref=e93]:
+              - img [ref=e95] [cursor=pointer]
+              - link "Mobiles" [ref=e97] [cursor=pointer]:
+                - /url: /mobiles/pr?sid=tyy,4io&q=iphone+15+128gb&otracker=categorytree
+          - generic [ref=e98]:
+            - generic [ref=e100]: Price
+            - generic [ref=e116]:
+              - generic [ref=e117]: .
+              - generic [ref=e118]: .
+              - generic [ref=e119]: .
+              - generic [ref=e120]: .
+              - generic [ref=e121]: .
+              - generic: .
+            - generic [ref=e122]:
+              - combobox [ref=e124]:
+                - option "Min" [selected]
+                - option "₹10000"
+                - option "₹15000"
+                - option "₹20000"
+                - option "₹30000"
+              - generic [ref=e125]: to
+              - combobox [ref=e127]:
+                - option "₹10000"
+                - option "₹15000"
+                - option "₹20000"
+                - option "₹30000"
+                - option "₹30000+" [selected]
+          - generic [ref=e128]:
+            - generic [ref=e129] [cursor=pointer]:
+              - generic [ref=e130]: Brand
+              - img [ref=e131]
+            - generic [ref=e133]:
+              - generic [ref=e134]:
+                - generic "Apple" [ref=e135] [cursor=pointer]:
+                  - generic [ref=e139]: Apple
+                - generic "IAIR" [ref=e140] [cursor=pointer]:
+                  - generic [ref=e144]: IAIR
+                - generic "FONEME" [ref=e145] [cursor=pointer]:
+                  - generic [ref=e149]: FONEME
+                - generic "ASUS" [ref=e150] [cursor=pointer]:
+                  - generic [ref=e154]: ASUS
+                - generic "HTC" [ref=e155] [cursor=pointer]:
+                  - generic [ref=e159]: HTC
+                - generic "Geotel" [ref=e160] [cursor=pointer]:
+                  - generic [ref=e164]: Geotel
+              - generic [ref=e165] [cursor=pointer]: 16 MORE
+          - generic [ref=e166]:
+            - img [ref=e171] [cursor=pointer]
+            - generic [ref=e173] [cursor=pointer]: "?"
+          - generic [ref=e175] [cursor=pointer]:
+            - generic [ref=e176]: Customer Ratings
+            - img [ref=e177]
+          - generic [ref=e180] [cursor=pointer]:
+            - generic [ref=e181]: GST Invoice Available
+            - img [ref=e182]
+          - generic [ref=e184]:
+            - generic [ref=e185] [cursor=pointer]:
+              - generic [ref=e186]: Ram
+              - img [ref=e187]
+            - generic [ref=e190]:
+              - generic "1 GB and Below" [ref=e191] [cursor=pointer]:
+                - generic [ref=e195]: 1 GB and Below
+              - generic "1GB and Below" [ref=e196] [cursor=pointer]:
+                - generic [ref=e200]: 1GB and Below
+              - generic "2 GB" [ref=e201] [cursor=pointer]:
+                - generic [ref=e205]: 2 GB
+              - generic "3 GB" [ref=e206] [cursor=pointer]:
+                - generic [ref=e210]: 3 GB
+              - generic "6 GB" [ref=e211] [cursor=pointer]:
+                - generic [ref=e215]: 6 GB
+          - generic [ref=e217] [cursor=pointer]:
+            - generic [ref=e218]: Internal Storage
+            - img [ref=e219]
+          - generic [ref=e222] [cursor=pointer]:
+            - generic [ref=e223]: Battery Capacity
+            - img [ref=e224]
+          - generic [ref=e227] [cursor=pointer]:
+            - generic [ref=e228]: Screen Size
+            - img [ref=e229]
+          - generic [ref=e232] [cursor=pointer]:
+            - generic [ref=e233]: Primary Camera
+            - img [ref=e234]
+          - generic [ref=e237] [cursor=pointer]:
+            - generic [ref=e238]: Secondary Camera
+            - img [ref=e239]
+          - generic [ref=e242] [cursor=pointer]:
+            - generic [ref=e243]: Processor Brand
+            - img [ref=e244]
+          - generic [ref=e247] [cursor=pointer]:
+            - generic [ref=e248]: Speciality
+            - img [ref=e249]
+          - generic [ref=e252] [cursor=pointer]:
+            - generic [ref=e253]: Resolution Type
+            - img [ref=e254]
+          - generic [ref=e257] [cursor=pointer]:
+            - generic [ref=e258]: Operating System
+            - img [ref=e259]
+          - generic [ref=e262] [cursor=pointer]:
+            - generic [ref=e263]: Network Type
+            - img [ref=e264]
+          - generic [ref=e267] [cursor=pointer]:
+            - generic [ref=e268]: Sim Type
+            - img [ref=e269]
+          - generic [ref=e272] [cursor=pointer]:
+            - generic [ref=e273]: Availability
+            - img [ref=e274]
+          - generic [ref=e276]:
+            - generic [ref=e277] [cursor=pointer]:
+              - generic [ref=e278]: Discount
+              - img [ref=e279]
+            - generic [ref=e282]:
+              - generic "50% or more" [ref=e283] [cursor=pointer]:
+                - generic [ref=e287]: 50% or more
+              - generic "40% or more" [ref=e288] [cursor=pointer]:
+                - generic [ref=e292]: 40% or more
+              - generic "30% or more" [ref=e293] [cursor=pointer]:
+                - generic [ref=e297]: 30% or more
+              - generic "20% or more" [ref=e298] [cursor=pointer]:
+                - generic [ref=e302]: 20% or more
+              - generic "10% or more" [ref=e303] [cursor=pointer]:
+                - generic [ref=e307]: 10% or more
+          - generic [ref=e308]:
+            - generic [ref=e309] [cursor=pointer]:
+              - generic [ref=e310]: Offers
+              - img [ref=e311]
+            - generic [ref=e314]:
+              - generic "Special Price" [ref=e315] [cursor=pointer]:
+                - generic [ref=e319]: Special Price
+              - generic "Buy More, Save More" [ref=e320] [cursor=pointer]:
+                - generic [ref=e324]: Buy More, Save More
+              - generic "No Cost EMI" [ref=e325] [cursor=pointer]:
+                - generic [ref=e329]: No Cost EMI
+          - generic [ref=e331] [cursor=pointer]:
+            - generic [ref=e332]: Type
+            - img [ref=e333]
+          - generic [ref=e336] [cursor=pointer]:
+            - generic [ref=e337]: Operating System Version Name
+            - img [ref=e338]
+          - generic [ref=e341] [cursor=pointer]:
+            - generic [ref=e342]: Clock Speed
+            - img [ref=e343]
+          - generic [ref=e346] [cursor=pointer]:
+            - generic [ref=e347]: Features
+            - img [ref=e348]
+          - generic [ref=e351] [cursor=pointer]:
+            - generic [ref=e352]: Number of Cores
+            - img [ref=e353]
+        - link "Need help? Help me decide Buying Guide" [ref=e356] [cursor=pointer]:
+          - /url: /buying-guide/mobiles?sid=tyy,4io&otracker=bg_from_browse_lhs
+          - generic [ref=e357]: Need help?
+          - generic [ref=e358]:
+            - text: Help me decide
+            - img [ref=e359]
+          - img "Buying Guide" [ref=e361]
+      - generic [ref=e362]:
+        - generic [ref=e365]:
+          - generic [ref=e366]:
+            - generic [ref=e367]:
+              - link "Home" [ref=e368] [cursor=pointer]:
+                - /url: /
+              - img [ref=e369]
+            - generic [ref=e371]:
+              - link "Mobiles & Accessories" [ref=e372] [cursor=pointer]:
+                - /url: /mobiles-accessories/pr?sid=tyy&marketplace=FLIPKART
+              - img [ref=e373]
+            - link "Mobiles" [ref=e376] [cursor=pointer]:
+              - /url: /mobiles/pr?sid=tyy,4io&marketplace=FLIPKART
+          - generic [ref=e377]: Showing 1 – 24 of 680 results for "iphone 15 128gb"
+          - generic [ref=e378]:
+            - generic [ref=e379]: Sort By
+            - generic [ref=e380]: Relevance
+            - generic [ref=e381] [cursor=pointer]: Popularity
+            - generic [ref=e382] [cursor=pointer]: Price -- Low to High
+            - generic [ref=e383] [cursor=pointer]: Price -- High to Low
+            - generic [ref=e384] [cursor=pointer]: Newest First
+        - link "Apple iPhone 15 (Black, 128 GB) Add to Compare Apple iPhone 15 (Black, 128 GB) 4.6 2,73,883 Ratings & 9,562 Reviews • 128 GB ROM • 15.49 cm (6.1 inch) Super Retina XDR Display • 48MP + 12MP | 12MP Front Camera • A16 Bionic Chip, 6 Core Processor Processor • 1 year warranty for phone and 1 year warranty for in Box Accessories. ₹59,900 Upto ₹41,200 Off on Exchange Bank Offer" [ref=e389] [cursor=pointer]:
+          - /url: /apple-iphone-15-black-128-gb/p/itm6ac6485515ae4?pid=MOBGTAGPTB3VS24W&lid=LSTMOBGTAGPTB3VS24WKFODHL&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_1&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBGTAGPTB3VS24W.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e390]:
+            - img "Apple iPhone 15 (Black, 128 GB)" [ref=e394]
+            - generic [ref=e400]: Add to Compare
+            - img [ref=e403]
+          - generic [ref=e405]:
+            - generic [ref=e406]:
+              - generic [ref=e407]: Apple iPhone 15 (Black, 128 GB)
+              - generic [ref=e408]:
+                - generic [ref=e410]:
+                  - text: "4.6"
+                  - img [ref=e411]
+                - generic [ref=e413]: 2,73,883 Ratings & 9,562 Reviews
+              - list [ref=e415]:
+                - listitem [ref=e416]: • 128 GB ROM
+                - listitem [ref=e417]: • 15.49 cm (6.1 inch) Super Retina XDR Display
+                - listitem [ref=e418]: • 48MP + 12MP | 12MP Front Camera
+                - listitem [ref=e419]: • A16 Bionic Chip, 6 Core Processor Processor
+                - listitem [ref=e420]: • 1 year warranty for phone and 1 year warranty for in Box Accessories.
+            - generic [ref=e421]:
+              - generic [ref=e424]: ₹59,900
+              - img [ref=e426]
+              - generic [ref=e428]:
+                - generic [ref=e429]: Upto
+                - generic [ref=e430]: ₹41,200
+                - generic [ref=e431]: Off on Exchange
+              - generic [ref=e434]: Bank Offer
+        - link "Apple iPhone 15 (Pink, 128 GB) Add to Compare Apple iPhone 15 (Pink, 128 GB) 4.6 2,73,883 Ratings & 9,562 Reviews • 128 GB ROM • 15.49 cm (6.1 inch) Super Retina XDR Display • 48MP + 12MP | 12MP Front Camera • A16 Bionic Chip, 6 Core Processor Processor • 1 year warranty for phone and 1 year warranty for in Box Accessories. ₹59,900 Only 2 left Upto ₹41,200 Off on Exchange" [ref=e439] [cursor=pointer]:
+          - /url: /apple-iphone-15-pink-128-gb/p/itm7579ed94ca647?pid=MOBGTAGPNMZA5PU5&lid=LSTMOBGTAGPNMZA5PU5AVZNIR&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBGTAGPNMZA5PU5.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e440]:
+            - img "Apple iPhone 15 (Pink, 128 GB)" [ref=e444]
+            - generic [ref=e450]: Add to Compare
+            - img [ref=e453]
+          - generic [ref=e455]:
+            - generic [ref=e456]:
+              - generic [ref=e457]: Apple iPhone 15 (Pink, 128 GB)
+              - generic [ref=e458]:
+                - generic [ref=e460]:
+                  - text: "4.6"
+                  - img [ref=e461]
+                - generic [ref=e463]: 2,73,883 Ratings & 9,562 Reviews
+              - list [ref=e465]:
+                - listitem [ref=e466]: • 128 GB ROM
+                - listitem [ref=e467]: • 15.49 cm (6.1 inch) Super Retina XDR Display
+                - listitem [ref=e468]: • 48MP + 12MP | 12MP Front Camera
+                - listitem [ref=e469]: • A16 Bionic Chip, 6 Core Processor Processor
+                - listitem [ref=e470]: • 1 year warranty for phone and 1 year warranty for in Box Accessories.
+            - generic [ref=e471]:
+              - generic [ref=e474]: ₹59,900
+              - img [ref=e476]
+              - generic [ref=e479]: Only 2 left
+              - generic [ref=e481]:
+                - generic [ref=e482]: Upto
+                - generic [ref=e483]: ₹41,200
+                - generic [ref=e484]: Off on Exchange
+        - link "Apple iPhone 15 (Blue, 128 GB) Currently unavailable Add to Compare Apple iPhone 15 (Blue, 128 GB) 4.6 2,73,883 Ratings & 9,562 Reviews • 128 GB ROM • 15.49 cm (6.1 inch) Super Retina XDR Display • 48MP + 12MP | 12MP Front Camera • A16 Bionic Chip, 6 Core Processor Processor • 1 year warranty for phone and 1 year warranty for in Box Accessories. ₹59,900 Upto ₹41,200 Off on Exchange Bank Offer" [ref=e489] [cursor=pointer]:
+          - /url: /apple-iphone-15-blue-128-gb/p/itmbf14ef54f645d?pid=MOBGTAGPAQNVFZZY&lid=LSTMOBGTAGPAQNVFZZYCQQXYH&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_3&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBGTAGPAQNVFZZY.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e490]:
+            - generic [ref=e491]:
+              - img "Apple iPhone 15 (Blue, 128 GB)" [ref=e494]
+              - generic: Currently unavailable
+            - generic [ref=e500]: Add to Compare
+            - img [ref=e503]
+          - generic [ref=e505]:
+            - generic [ref=e506]:
+              - generic [ref=e507]: Apple iPhone 15 (Blue, 128 GB)
+              - generic [ref=e508]:
+                - generic [ref=e510]:
+                  - text: "4.6"
+                  - img [ref=e511]
+                - generic [ref=e513]: 2,73,883 Ratings & 9,562 Reviews
+              - list [ref=e515]:
+                - listitem [ref=e516]: • 128 GB ROM
+                - listitem [ref=e517]: • 15.49 cm (6.1 inch) Super Retina XDR Display
+                - listitem [ref=e518]: • 48MP + 12MP | 12MP Front Camera
+                - listitem [ref=e519]: • A16 Bionic Chip, 6 Core Processor Processor
+                - listitem [ref=e520]: • 1 year warranty for phone and 1 year warranty for in Box Accessories.
+            - generic [ref=e521]:
+              - generic [ref=e524]: ₹59,900
+              - img [ref=e526]
+              - generic [ref=e528]:
+                - generic [ref=e529]: Upto
+                - generic [ref=e530]: ₹41,200
+                - generic [ref=e531]: Off on Exchange
+              - generic [ref=e534]: Bank Offer
+        - link "Apple iPhone 15 (Green, 128 GB) Add to Compare Apple iPhone 15 (Green, 128 GB) 4.6 2,73,883 Ratings & 9,562 Reviews • 128 GB ROM • 15.49 cm (6.1 inch) Super Retina XDR Display • 48MP + 12MP | 12MP Front Camera • A16 Bionic Chip, 6 Core Processor Processor • 1 year warranty for phone and 1 year warranty for in Box Accessories. ₹59,900 Only 3 left Upto ₹41,200 Off on Exchange" [ref=e539] [cursor=pointer]:
+          - /url: /apple-iphone-15-green-128-gb/p/itm235cd318bde73?pid=MOBGTAGPYYWZRUJX&lid=LSTMOBGTAGPYYWZRUJX8CTXDU&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_4&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBGTAGPYYWZRUJX.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e540]:
+            - img "Apple iPhone 15 (Green, 128 GB)" [ref=e544]
+            - generic [ref=e550]: Add to Compare
+            - img [ref=e553]
+          - generic [ref=e555]:
+            - generic [ref=e556]:
+              - generic [ref=e557]: Apple iPhone 15 (Green, 128 GB)
+              - generic [ref=e558]:
+                - generic [ref=e560]:
+                  - text: "4.6"
+                  - img [ref=e561]
+                - generic [ref=e563]: 2,73,883 Ratings & 9,562 Reviews
+              - list [ref=e565]:
+                - listitem [ref=e566]: • 128 GB ROM
+                - listitem [ref=e567]: • 15.49 cm (6.1 inch) Super Retina XDR Display
+                - listitem [ref=e568]: • 48MP + 12MP | 12MP Front Camera
+                - listitem [ref=e569]: • A16 Bionic Chip, 6 Core Processor Processor
+                - listitem [ref=e570]: • 1 year warranty for phone and 1 year warranty for in Box Accessories.
+            - generic [ref=e571]:
+              - generic [ref=e574]: ₹59,900
+              - img [ref=e576]
+              - generic [ref=e579]: Only 3 left
+              - generic [ref=e581]:
+                - generic [ref=e582]: Upto
+                - generic [ref=e583]: ₹41,200
+                - generic [ref=e584]: Off on Exchange
+        - link "Apple iPhone 15 (Yellow, 128 GB) Currently unavailable Add to Compare Apple iPhone 15 (Yellow, 128 GB) 4.6 2,73,883 Ratings & 9,562 Reviews • 128 GB ROM • 15.49 cm (6.1 inch) Super Retina XDR Display • 48MP + 12MP | 12MP Front Camera • A16 Bionic Chip, 6 Core Processor Processor • 1 year warranty for phone and 1 year warranty for in Box Accessories. ₹59,900 Upto ₹41,200 Off on Exchange Bank Offer" [ref=e589] [cursor=pointer]:
+          - /url: /apple-iphone-15-yellow-128-gb/p/itm825e4ad0b80ca?pid=MOBGTAGPDTKHHHZU&lid=LSTMOBGTAGPDTKHHHZUTQZRMS&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_5&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBGTAGPDTKHHHZU.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e590]:
+            - generic [ref=e591]:
+              - img "Apple iPhone 15 (Yellow, 128 GB)" [ref=e594]
+              - generic: Currently unavailable
+            - generic [ref=e600]: Add to Compare
+            - img [ref=e603]
+          - generic [ref=e605]:
+            - generic [ref=e606]:
+              - generic [ref=e607]: Apple iPhone 15 (Yellow, 128 GB)
+              - generic [ref=e608]:
+                - generic [ref=e610]:
+                  - text: "4.6"
+                  - img [ref=e611]
+                - generic [ref=e613]: 2,73,883 Ratings & 9,562 Reviews
+              - list [ref=e615]:
+                - listitem [ref=e616]: • 128 GB ROM
+                - listitem [ref=e617]: • 15.49 cm (6.1 inch) Super Retina XDR Display
+                - listitem [ref=e618]: • 48MP + 12MP | 12MP Front Camera
+                - listitem [ref=e619]: • A16 Bionic Chip, 6 Core Processor Processor
+                - listitem [ref=e620]: • 1 year warranty for phone and 1 year warranty for in Box Accessories.
+            - generic [ref=e621]:
+              - generic [ref=e624]: ₹59,900
+              - img [ref=e626]
+              - generic [ref=e628]:
+                - generic [ref=e629]: Upto
+                - generic [ref=e630]: ₹41,200
+                - generic [ref=e631]: Off on Exchange
+              - generic [ref=e634]: Bank Offer
+        - link "Apple iPhone 15 Plus (Black, 128 GB) Add to Compare Apple iPhone 15 Plus (Black, 128 GB) 4.6 47,814 Ratings & 2,599 Reviews • 128 GB ROM • 17.02 cm (6.7 inch) Super Retina XDR Display • 48MP + 12MP | 12MP Front Camera • A16 Bionic Chip, 6 Core Processor Processor • 1 year warranty for phone and 1 year warranty for in Box Accessories. ₹69,900 Only 1 left Upto ₹47,350 Off on Exchange" [ref=e639] [cursor=pointer]:
+          - /url: /apple-iphone-15-plus-black-128-gb/p/itme3a53984760fb?pid=MOBGTAGPNRQA7CS3&lid=LSTMOBGTAGPNRQA7CS3YEKCQO&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_6&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBGTAGPNRQA7CS3.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e640]:
+            - img "Apple iPhone 15 Plus (Black, 128 GB)" [ref=e644]
+            - generic [ref=e650]: Add to Compare
+            - img [ref=e653]
+          - generic [ref=e655]:
+            - generic [ref=e656]:
+              - generic [ref=e657]: Apple iPhone 15 Plus (Black, 128 GB)
+              - generic [ref=e658]:
+                - generic [ref=e660]:
+                  - text: "4.6"
+                  - img [ref=e661]
+                - generic [ref=e663]: 47,814 Ratings & 2,599 Reviews
+              - list [ref=e665]:
+                - listitem [ref=e666]: • 128 GB ROM
+                - listitem [ref=e667]: • 17.02 cm (6.7 inch) Super Retina XDR Display
+                - listitem [ref=e668]: • 48MP + 12MP | 12MP Front Camera
+                - listitem [ref=e669]: • A16 Bionic Chip, 6 Core Processor Processor
+                - listitem [ref=e670]: • 1 year warranty for phone and 1 year warranty for in Box Accessories.
+            - generic [ref=e671]:
+              - generic [ref=e674]: ₹69,900
+              - img [ref=e676]
+              - generic [ref=e679]: Only 1 left
+              - generic [ref=e681]:
+                - generic [ref=e682]: Upto
+                - generic [ref=e683]: ₹47,350
+                - generic [ref=e684]: Off on Exchange
+        - link "Apple iPhone 15 Plus (Pink, 128 GB) Add to Compare Apple iPhone 15 Plus (Pink, 128 GB) 4.6 47,814 Ratings & 2,599 Reviews • 128 GB ROM • 17.02 cm (6.7 inch) Super Retina XDR Display • 48MP + 12MP | 12MP Front Camera • A16 Bionic Chip, 6 Core Processor Processor • 1 year warranty for phone and 1 year warranty for in Box Accessories. ₹69,900 Only 3 left Upto ₹47,350 Off on Exchange" [ref=e689] [cursor=pointer]:
+          - /url: /apple-iphone-15-plus-pink-128-gb/p/itmecb6209a78172?pid=MOBGTAGPXUWEXXWY&lid=LSTMOBGTAGPXUWEXXWYSEAZVW&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_7&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBGTAGPXUWEXXWY.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e690]:
+            - img "Apple iPhone 15 Plus (Pink, 128 GB)" [ref=e694]
+            - generic [ref=e700]: Add to Compare
+            - img [ref=e703]
+          - generic [ref=e705]:
+            - generic [ref=e706]:
+              - generic [ref=e707]: Apple iPhone 15 Plus (Pink, 128 GB)
+              - generic [ref=e708]:
+                - generic [ref=e710]:
+                  - text: "4.6"
+                  - img [ref=e711]
+                - generic [ref=e713]: 47,814 Ratings & 2,599 Reviews
+              - list [ref=e715]:
+                - listitem [ref=e716]: • 128 GB ROM
+                - listitem [ref=e717]: • 17.02 cm (6.7 inch) Super Retina XDR Display
+                - listitem [ref=e718]: • 48MP + 12MP | 12MP Front Camera
+                - listitem [ref=e719]: • A16 Bionic Chip, 6 Core Processor Processor
+                - listitem [ref=e720]: • 1 year warranty for phone and 1 year warranty for in Box Accessories.
+            - generic [ref=e721]:
+              - generic [ref=e724]: ₹69,900
+              - img [ref=e726]
+              - generic [ref=e729]: Only 3 left
+              - generic [ref=e731]:
+                - generic [ref=e732]: Upto
+                - generic [ref=e733]: ₹47,350
+                - generic [ref=e734]: Off on Exchange
+        - link "Apple iPhone 15 Plus (Green, 128 GB) Currently unavailable Add to Compare Apple iPhone 15 Plus (Green, 128 GB) 4.6 47,814 Ratings & 2,599 Reviews • 128 GB ROM • 17.02 cm (6.7 inch) Super Retina XDR Display • 48MP + 12MP | 12MP Front Camera • A16 Bionic Chip, 6 Core Processor Processor • 1 year warranty for phone and 1 year warranty for in Box Accessories. ₹69,900 Upto ₹47,350 Off on Exchange Bank Offer" [ref=e739] [cursor=pointer]:
+          - /url: /apple-iphone-15-plus-green-128-gb/p/itmaa50abb5e6c3b?pid=MOBGTAGPJVGHTAYC&lid=LSTMOBGTAGPJVGHTAYCV2RJGH&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_8&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBGTAGPJVGHTAYC.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e740]:
+            - generic [ref=e741]:
+              - img "Apple iPhone 15 Plus (Green, 128 GB)" [ref=e744]
+              - generic: Currently unavailable
+            - generic [ref=e750]: Add to Compare
+            - img [ref=e753]
+          - generic [ref=e755]:
+            - generic [ref=e756]:
+              - generic [ref=e757]: Apple iPhone 15 Plus (Green, 128 GB)
+              - generic [ref=e758]:
+                - generic [ref=e760]:
+                  - text: "4.6"
+                  - img [ref=e761]
+                - generic [ref=e763]: 47,814 Ratings & 2,599 Reviews
+              - list [ref=e765]:
+                - listitem [ref=e766]: • 128 GB ROM
+                - listitem [ref=e767]: • 17.02 cm (6.7 inch) Super Retina XDR Display
+                - listitem [ref=e768]: • 48MP + 12MP | 12MP Front Camera
+                - listitem [ref=e769]: • A16 Bionic Chip, 6 Core Processor Processor
+                - listitem [ref=e770]: • 1 year warranty for phone and 1 year warranty for in Box Accessories.
+            - generic [ref=e771]:
+              - generic [ref=e774]: ₹69,900
+              - img [ref=e776]
+              - generic [ref=e778]:
+                - generic [ref=e779]: Upto
+                - generic [ref=e780]: ₹47,350
+                - generic [ref=e781]: Off on Exchange
+              - generic [ref=e784]: Bank Offer
+        - link "Apple iPhone 15 Plus (Blue, 128 GB) Currently unavailable Add to Compare Apple iPhone 15 Plus (Blue, 128 GB) 4.6 47,814 Ratings & 2,599 Reviews • 128 GB ROM • 17.02 cm (6.7 inch) Super Retina XDR Display • 48MP + 12MP | 12MP Front Camera • A16 Bionic Chip, 6 Core Processor Processor • 1 year warranty for phone and 1 year warranty for in Box Accessories. ₹69,900 Upto ₹47,350 Off on Exchange Bank Offer" [ref=e789] [cursor=pointer]:
+          - /url: /apple-iphone-15-plus-blue-128-gb/p/itm4022c14383050?pid=MOBGTAGPE4F2HAW7&lid=LSTMOBGTAGPE4F2HAW7WFN3UG&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_9&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBGTAGPE4F2HAW7.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e790]:
+            - generic [ref=e791]:
+              - img "Apple iPhone 15 Plus (Blue, 128 GB)" [ref=e794]
+              - generic: Currently unavailable
+            - generic [ref=e800]: Add to Compare
+            - img [ref=e803]
+          - generic [ref=e805]:
+            - generic [ref=e806]:
+              - generic [ref=e807]: Apple iPhone 15 Plus (Blue, 128 GB)
+              - generic [ref=e808]:
+                - generic [ref=e810]:
+                  - text: "4.6"
+                  - img [ref=e811]
+                - generic [ref=e813]: 47,814 Ratings & 2,599 Reviews
+              - list [ref=e815]:
+                - listitem [ref=e816]: • 128 GB ROM
+                - listitem [ref=e817]: • 17.02 cm (6.7 inch) Super Retina XDR Display
+                - listitem [ref=e818]: • 48MP + 12MP | 12MP Front Camera
+                - listitem [ref=e819]: • A16 Bionic Chip, 6 Core Processor Processor
+                - listitem [ref=e820]: • 1 year warranty for phone and 1 year warranty for in Box Accessories.
+            - generic [ref=e821]:
+              - generic [ref=e824]: ₹69,900
+              - img [ref=e826]
+              - generic [ref=e828]:
+                - generic [ref=e829]: Upto
+                - generic [ref=e830]: ₹47,350
+                - generic [ref=e831]: Off on Exchange
+              - generic [ref=e834]: Bank Offer
+        - link "Apple iPhone 15 Pro (Natural Titanium, 128 GB) Currently unavailable Add to Compare Apple iPhone 15 Pro (Natural Titanium, 128 GB) 4.7 3,152 Ratings & 159 Reviews • 128 GB ROM • 15.49 cm (6.1 inch) Super Retina XDR Display • 48MP + 12MP + 12MP | 12MP Front Camera • A17 Pro Chip, 6 Core Processor Processor • 1 year warranty for phone and 1 year warranty for in Box Accessories. ₹1,34,900 Upto ₹47,350 Off on Exchange Bank Offer" [ref=e839] [cursor=pointer]:
+          - /url: /apple-iphone-15-pro-natural-titanium-128-gb/p/itm7ffb1e9990edd?pid=MOBGTAGP38MFPN6Q&lid=LSTMOBGTAGP38MFPN6QM0P7P5&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_10&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBGTAGP38MFPN6Q.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e840]:
+            - generic [ref=e841]:
+              - img "Apple iPhone 15 Pro (Natural Titanium, 128 GB)" [ref=e844]
+              - generic: Currently unavailable
+            - generic [ref=e850]: Add to Compare
+            - img [ref=e853]
+          - generic [ref=e855]:
+            - generic [ref=e856]:
+              - generic [ref=e857]: Apple iPhone 15 Pro (Natural Titanium, 128 GB)
+              - generic [ref=e858]:
+                - generic [ref=e860]:
+                  - text: "4.7"
+                  - img [ref=e861]
+                - generic [ref=e863]: 3,152 Ratings & 159 Reviews
+              - list [ref=e865]:
+                - listitem [ref=e866]: • 128 GB ROM
+                - listitem [ref=e867]: • 15.49 cm (6.1 inch) Super Retina XDR Display
+                - listitem [ref=e868]: • 48MP + 12MP + 12MP | 12MP Front Camera
+                - listitem [ref=e869]: • A17 Pro Chip, 6 Core Processor Processor
+                - listitem [ref=e870]: • 1 year warranty for phone and 1 year warranty for in Box Accessories.
+            - generic [ref=e871]:
+              - generic [ref=e874]: ₹1,34,900
+              - img [ref=e876]
+              - generic [ref=e878]:
+                - generic [ref=e879]: Upto
+                - generic [ref=e880]: ₹47,350
+                - generic [ref=e881]: Off on Exchange
+              - generic [ref=e884]: Bank Offer
+        - link "Apple iPhone 15 Pro (Blue Titanium, 128 GB) Currently unavailable Add to Compare Apple iPhone 15 Pro (Blue Titanium, 128 GB) 4.7 3,152 Ratings & 159 Reviews • 128 GB ROM • 15.49 cm (6.1 inch) Super Retina XDR Display • 48MP + 12MP + 12MP | 12MP Front Camera • A17 Pro Chip, 6 Core Processor Processor • 1 year warranty for phone and 1 year warranty for in Box Accessories. ₹1,34,900 Upto ₹47,350 Off on Exchange Bank Offer" [ref=e889] [cursor=pointer]:
+          - /url: /apple-iphone-15-pro-blue-titanium-128-gb/p/itmcba9124f132a8?pid=MOBGTAGPBBA6ZBT9&lid=LSTMOBGTAGPBBA6ZBT9UZXBVJ&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_11&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBGTAGPBBA6ZBT9.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e890]:
+            - generic [ref=e891]:
+              - img "Apple iPhone 15 Pro (Blue Titanium, 128 GB)" [ref=e894]
+              - generic: Currently unavailable
+            - generic [ref=e900]: Add to Compare
+            - img [ref=e903]
+          - generic [ref=e905]:
+            - generic [ref=e906]:
+              - generic [ref=e907]: Apple iPhone 15 Pro (Blue Titanium, 128 GB)
+              - generic [ref=e908]:
+                - generic [ref=e910]:
+                  - text: "4.7"
+                  - img [ref=e911]
+                - generic [ref=e913]: 3,152 Ratings & 159 Reviews
+              - list [ref=e915]:
+                - listitem [ref=e916]: • 128 GB ROM
+                - listitem [ref=e917]: • 15.49 cm (6.1 inch) Super Retina XDR Display
+                - listitem [ref=e918]: • 48MP + 12MP + 12MP | 12MP Front Camera
+                - listitem [ref=e919]: • A17 Pro Chip, 6 Core Processor Processor
+                - listitem [ref=e920]: • 1 year warranty for phone and 1 year warranty for in Box Accessories.
+            - generic [ref=e921]:
+              - generic [ref=e924]: ₹1,34,900
+              - img [ref=e926]
+              - generic [ref=e928]:
+                - generic [ref=e929]: Upto
+                - generic [ref=e930]: ₹47,350
+                - generic [ref=e931]: Off on Exchange
+              - generic [ref=e934]: Bank Offer
+        - link "Apple iPhone 15 Plus (Yellow, 128 GB) Currently unavailable Add to Compare Apple iPhone 15 Plus (Yellow, 128 GB) 4.6 47,814 Ratings & 2,599 Reviews • 128 GB ROM • 17.02 cm (6.7 inch) Super Retina XDR Display • 48MP + 12MP | 12MP Front Camera • A16 Bionic Chip, 6 Core Processor Processor • 1 year warranty for phone and 1 year warranty for in Box Accessories. ₹69,900 Upto ₹47,350 Off on Exchange Bank Offer" [ref=e939] [cursor=pointer]:
+          - /url: /apple-iphone-15-plus-yellow-128-gb/p/itm94bb31f2af05a?pid=MOBGTAGPVSMQYGZX&lid=LSTMOBGTAGPVSMQYGZXNTFFPK&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_12&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBGTAGPVSMQYGZX.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e940]:
+            - generic [ref=e941]:
+              - img "Apple iPhone 15 Plus (Yellow, 128 GB)" [ref=e944]
+              - generic: Currently unavailable
+            - generic [ref=e950]: Add to Compare
+            - img [ref=e953]
+          - generic [ref=e955]:
+            - generic [ref=e956]:
+              - generic [ref=e957]: Apple iPhone 15 Plus (Yellow, 128 GB)
+              - generic [ref=e958]:
+                - generic [ref=e960]:
+                  - text: "4.6"
+                  - img [ref=e961]
+                - generic [ref=e963]: 47,814 Ratings & 2,599 Reviews
+              - list [ref=e965]:
+                - listitem [ref=e966]: • 128 GB ROM
+                - listitem [ref=e967]: • 17.02 cm (6.7 inch) Super Retina XDR Display
+                - listitem [ref=e968]: • 48MP + 12MP | 12MP Front Camera
+                - listitem [ref=e969]: • A16 Bionic Chip, 6 Core Processor Processor
+                - listitem [ref=e970]: • 1 year warranty for phone and 1 year warranty for in Box Accessories.
+            - generic [ref=e971]:
+              - generic [ref=e974]: ₹69,900
+              - img [ref=e976]
+              - generic [ref=e978]:
+                - generic [ref=e979]: Upto
+                - generic [ref=e980]: ₹47,350
+                - generic [ref=e981]: Off on Exchange
+              - generic [ref=e984]: Bank Offer
+        - link "Apple iPhone 15 Pro (White Titanium, 128 GB) Currently unavailable Add to Compare Apple iPhone 15 Pro (White Titanium, 128 GB) 4.7 3,152 Ratings & 159 Reviews • 128 GB ROM • 15.49 cm (6.1 inch) Super Retina XDR Display • 48MP + 12MP + 12MP | 12MP Front Camera • A17 Pro Chip, 6 Core Processor Processor • 1 year warranty for phone and 1 year warranty for in Box Accessories. ₹1,34,900 Upto ₹47,350 Off on Exchange Bank Offer" [ref=e989] [cursor=pointer]:
+          - /url: /apple-iphone-15-pro-white-titanium-128-gb/p/itm786eaa7ec159e?pid=MOBGTAGPFGSCNHJF&lid=LSTMOBGTAGPFGSCNHJFWE6FUK&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_13&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBGTAGPFGSCNHJF.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e990]:
+            - generic [ref=e991]:
+              - img "Apple iPhone 15 Pro (White Titanium, 128 GB)" [ref=e994]
+              - generic: Currently unavailable
+            - generic [ref=e1000]: Add to Compare
+            - img [ref=e1003]
+          - generic [ref=e1005]:
+            - generic [ref=e1006]:
+              - generic [ref=e1007]: Apple iPhone 15 Pro (White Titanium, 128 GB)
+              - generic [ref=e1008]:
+                - generic [ref=e1010]:
+                  - text: "4.7"
+                  - img [ref=e1011]
+                - generic [ref=e1013]: 3,152 Ratings & 159 Reviews
+              - list [ref=e1015]:
+                - listitem [ref=e1016]: • 128 GB ROM
+                - listitem [ref=e1017]: • 15.49 cm (6.1 inch) Super Retina XDR Display
+                - listitem [ref=e1018]: • 48MP + 12MP + 12MP | 12MP Front Camera
+                - listitem [ref=e1019]: • A17 Pro Chip, 6 Core Processor Processor
+                - listitem [ref=e1020]: • 1 year warranty for phone and 1 year warranty for in Box Accessories.
+            - generic [ref=e1021]:
+              - generic [ref=e1024]: ₹1,34,900
+              - img [ref=e1026]
+              - generic [ref=e1028]:
+                - generic [ref=e1029]: Upto
+                - generic [ref=e1030]: ₹47,350
+                - generic [ref=e1031]: Off on Exchange
+              - generic [ref=e1034]: Bank Offer
+        - link "Apple iPhone 15 Pro (Black Titanium, 128 GB) Currently unavailable Add to Compare Apple iPhone 15 Pro (Black Titanium, 128 GB) 4.7 3,152 Ratings & 159 Reviews • 128 GB ROM • 15.49 cm (6.1 inch) Super Retina XDR Display • 48MP + 12MP + 12MP | 12MP Front Camera • A17 Pro Chip, 6 Core Processor Processor • 1 year warranty for phone and 1 year warranty for in Box Accessories. ₹1,34,900 Upto ₹47,350 Off on Exchange Bank Offer" [ref=e1039] [cursor=pointer]:
+          - /url: /apple-iphone-15-pro-black-titanium-128-gb/p/itm96f61fdd7e604?pid=MOBGTAGPJTMGZC9U&lid=LSTMOBGTAGPJTMGZC9UHKATAP&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_14&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBGTAGPJTMGZC9U.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e1040]:
+            - generic [ref=e1041]:
+              - img "Apple iPhone 15 Pro (Black Titanium, 128 GB)" [ref=e1044]
+              - generic: Currently unavailable
+            - generic [ref=e1050]: Add to Compare
+            - img [ref=e1053]
+          - generic [ref=e1055]:
+            - generic [ref=e1056]:
+              - generic [ref=e1057]: Apple iPhone 15 Pro (Black Titanium, 128 GB)
+              - generic [ref=e1058]:
+                - generic [ref=e1060]:
+                  - text: "4.7"
+                  - img [ref=e1061]
+                - generic [ref=e1063]: 3,152 Ratings & 159 Reviews
+              - list [ref=e1065]:
+                - listitem [ref=e1066]: • 128 GB ROM
+                - listitem [ref=e1067]: • 15.49 cm (6.1 inch) Super Retina XDR Display
+                - listitem [ref=e1068]: • 48MP + 12MP + 12MP | 12MP Front Camera
+                - listitem [ref=e1069]: • A17 Pro Chip, 6 Core Processor Processor
+                - listitem [ref=e1070]: • 1 year warranty for phone and 1 year warranty for in Box Accessories.
+            - generic [ref=e1071]:
+              - generic [ref=e1074]: ₹1,34,900
+              - img [ref=e1076]
+              - generic [ref=e1078]:
+                - generic [ref=e1079]: Upto
+                - generic [ref=e1080]: ₹47,350
+                - generic [ref=e1081]: Off on Exchange
+              - generic [ref=e1084]: Bank Offer
+        - link "FONEME POWER 17c Add to Compare FONEME POWER 17c • 8 MB RAM | 16 MB ROM • 6.1 cm (2.4 inch) Display • 0.3MP Rear Camera • 3000 mAh Battery • 6 Months Domestic Warranty ₹999 ₹1,499 33% off Only few left Bank Offer" [ref=e1089] [cursor=pointer]:
+          - /url: /foneme-power-17c/p/itme26876a23dd25?pid=MOBHHF7UHYCXZ978&lid=LSTMOBHHF7UHYCXZ978Q2MH8Y&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_15&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBHHF7UHYCXZ978.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e1090]:
+            - img "FONEME POWER 17c" [ref=e1094]
+            - generic [ref=e1100]: Add to Compare
+            - img [ref=e1103]
+          - generic [ref=e1105]:
+            - generic [ref=e1106]:
+              - generic [ref=e1107]: FONEME POWER 17c
+              - list [ref=e1109]:
+                - listitem [ref=e1110]: • 8 MB RAM | 16 MB ROM
+                - listitem [ref=e1111]: • 6.1 cm (2.4 inch) Display
+                - listitem [ref=e1112]: • 0.3MP Rear Camera
+                - listitem [ref=e1113]: • 3000 mAh Battery
+                - listitem [ref=e1114]: • 6 Months Domestic Warranty
+            - generic [ref=e1115]:
+              - generic [ref=e1117]:
+                - generic [ref=e1118]: ₹999
+                - generic [ref=e1119]: ₹1,499
+                - generic [ref=e1120]: 33% off
+              - img [ref=e1122]
+              - generic [ref=e1125]: Only few left
+              - generic [ref=e1128]: Bank Offer
+        - link "FONEME F17air Add to Compare FONEME F17air 3.8 6 Ratings & 0 Reviews • 8 MB RAM | 16 MB ROM • 4.57 cm (1.8 inch) Display • 0.3MP Rear Camera • 1500 mAh Battery • 3 Months Domestic Warranty ₹1,799 ₹2,999 40% off Only 5 left Bank Offer" [ref=e1133] [cursor=pointer]:
+          - /url: /foneme-f17air/p/itm11b82de58f078?pid=MOBHJDHDGVTJFBBT&lid=LSTMOBHJDHDGVTJFBBTGWYLYQ&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_16&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBHJDHDGVTJFBBT.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e1134]:
+            - img "FONEME F17air" [ref=e1138]
+            - generic [ref=e1144]: Add to Compare
+            - img [ref=e1147]
+          - generic [ref=e1149]:
+            - generic [ref=e1150]:
+              - generic [ref=e1151]: FONEME F17air
+              - generic [ref=e1152]:
+                - generic [ref=e1154]:
+                  - text: "3.8"
+                  - img [ref=e1155]
+                - generic [ref=e1157]: 6 Ratings & 0 Reviews
+              - list [ref=e1159]:
+                - listitem [ref=e1160]: • 8 MB RAM | 16 MB ROM
+                - listitem [ref=e1161]: • 4.57 cm (1.8 inch) Display
+                - listitem [ref=e1162]: • 0.3MP Rear Camera
+                - listitem [ref=e1163]: • 1500 mAh Battery
+                - listitem [ref=e1164]: • 3 Months Domestic Warranty
+            - generic [ref=e1165]:
+              - generic [ref=e1167]:
+                - generic [ref=e1168]: ₹1,799
+                - generic [ref=e1169]: ₹2,999
+                - generic [ref=e1170]: 40% off
+              - img [ref=e1172]
+              - generic [ref=e1175]: Only 5 left
+              - generic [ref=e1178]: Bank Offer
+        - link "Apple iPhone 17 (Black, 256 GB) Add to Compare Apple iPhone 17 (Black, 256 GB) 4.6 8,730 Ratings & 472 Reviews • 256 GB ROM • 16.0 cm (6.3 inch) Super Retina XDR Display • 48MP + 48MP | 18MP Front Camera • A19 Chip, 6 Core Processor Processor • Apple One (1) Year Limited Warranty ₹82,900 Upto ₹52,350 Off on Exchange Bank Offer" [ref=e1183] [cursor=pointer]:
+          - /url: /apple-iphone-17-black-256-gb/p/itm6eb39da622cdd?pid=MOBHFN6YN2HXB5HE&lid=LSTMOBHFN6YN2HXB5HER9QXGU&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&spotlightTagId=default_BestsellerId_tyy%2F4io&srno=s_1_17&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBHFN6YN2HXB5HE.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e1184]:
+            - img "Apple iPhone 17 (Black, 256 GB)" [ref=e1188]
+            - generic [ref=e1194]: Add to Compare
+            - img [ref=e1197]
+          - generic [ref=e1199]:
+            - generic [ref=e1200]:
+              - generic [ref=e1201]: Apple iPhone 17 (Black, 256 GB)
+              - generic [ref=e1202]:
+                - generic [ref=e1204]:
+                  - text: "4.6"
+                  - img [ref=e1205]
+                - generic [ref=e1207]: 8,730 Ratings & 472 Reviews
+              - list [ref=e1209]:
+                - listitem [ref=e1210]: • 256 GB ROM
+                - listitem [ref=e1211]: • 16.0 cm (6.3 inch) Super Retina XDR Display
+                - listitem [ref=e1212]: • 48MP + 48MP | 18MP Front Camera
+                - listitem [ref=e1213]: • A19 Chip, 6 Core Processor Processor
+                - listitem [ref=e1214]: • Apple One (1) Year Limited Warranty
+            - generic [ref=e1215]:
+              - generic [ref=e1218]: ₹82,900
+              - img [ref=e1220]
+              - generic [ref=e1222]:
+                - generic [ref=e1223]: Upto
+                - generic [ref=e1224]: ₹52,350
+                - generic [ref=e1225]: Off on Exchange
+              - generic [ref=e1228]: Bank Offer
+        - link "Apple iPhone 17 (Lavender, 256 GB) Add to Compare Apple iPhone 17 (Lavender, 256 GB) 4.6 8,730 Ratings & 472 Reviews • 256 GB ROM • 16.0 cm (6.3 inch) Super Retina XDR Display • 48MP + 48MP | 18MP Front Camera • A19 Chip, 6 Core Processor Processor • Apple One (1) Year Limited Warranty ₹82,900 Upto ₹52,350 Off on Exchange Bank Offer" [ref=e1233] [cursor=pointer]:
+          - /url: /apple-iphone-17-lavender-256-gb/p/itmf37c8dffa4165?pid=MOBHFN6YKGBPYJZD&lid=LSTMOBHFN6YKGBPYJZDEZPBYP&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&spotlightTagId=default_BestsellerId_tyy%2F4io&srno=s_1_18&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBHFN6YKGBPYJZD.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e1234]:
+            - img "Apple iPhone 17 (Lavender, 256 GB)" [ref=e1238]
+            - generic [ref=e1244]: Add to Compare
+            - img [ref=e1247]
+          - generic [ref=e1249]:
+            - generic [ref=e1250]:
+              - generic [ref=e1251]: Apple iPhone 17 (Lavender, 256 GB)
+              - generic [ref=e1252]:
+                - generic [ref=e1254]:
+                  - text: "4.6"
+                  - img [ref=e1255]
+                - generic [ref=e1257]: 8,730 Ratings & 472 Reviews
+              - list [ref=e1259]:
+                - listitem [ref=e1260]: • 256 GB ROM
+                - listitem [ref=e1261]: • 16.0 cm (6.3 inch) Super Retina XDR Display
+                - listitem [ref=e1262]: • 48MP + 48MP | 18MP Front Camera
+                - listitem [ref=e1263]: • A19 Chip, 6 Core Processor Processor
+                - listitem [ref=e1264]: • Apple One (1) Year Limited Warranty
+            - generic [ref=e1265]:
+              - generic [ref=e1268]: ₹82,900
+              - img [ref=e1270]
+              - generic [ref=e1272]:
+                - generic [ref=e1273]: Upto
+                - generic [ref=e1274]: ₹52,350
+                - generic [ref=e1275]: Off on Exchange
+              - generic [ref=e1278]: Bank Offer
+        - link "FONEME F17air Add to Compare FONEME F17air 3.8 6 Ratings & 0 Reviews • 8 MB RAM | 16 MB ROM • 4.57 cm (1.8 inch) Display • 0.3MP Rear Camera • 1500 mAh Battery • 3 Months Domestic Warranty ₹1,799 ₹2,999 40% off Only few left Bank Offer" [ref=e1283] [cursor=pointer]:
+          - /url: /foneme-f17air/p/itm11b82de58f078?pid=MOBHJDHEEPBFRMHA&lid=LSTMOBHJDHEEPBFRMHA8FPSMG&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_19&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBHJDHEEPBFRMHA.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e1284]:
+            - img "FONEME F17air" [ref=e1288]
+            - generic [ref=e1294]: Add to Compare
+            - img [ref=e1297]
+          - generic [ref=e1299]:
+            - generic [ref=e1300]:
+              - generic [ref=e1301]: FONEME F17air
+              - generic [ref=e1302]:
+                - generic [ref=e1304]:
+                  - text: "3.8"
+                  - img [ref=e1305]
+                - generic [ref=e1307]: 6 Ratings & 0 Reviews
+              - list [ref=e1309]:
+                - listitem [ref=e1310]: • 8 MB RAM | 16 MB ROM
+                - listitem [ref=e1311]: • 4.57 cm (1.8 inch) Display
+                - listitem [ref=e1312]: • 0.3MP Rear Camera
+                - listitem [ref=e1313]: • 1500 mAh Battery
+                - listitem [ref=e1314]: • 3 Months Domestic Warranty
+            - generic [ref=e1315]:
+              - generic [ref=e1317]:
+                - generic [ref=e1318]: ₹1,799
+                - generic [ref=e1319]: ₹2,999
+                - generic [ref=e1320]: 40% off
+              - img [ref=e1322]
+              - generic [ref=e1325]: Only few left
+              - generic [ref=e1328]: Bank Offer
+        - link "Good One Magic Add to Compare Good One Magic 4 4,345 Ratings & 340 Reviews • 32 MB RAM | 32 MB ROM | Expandable Upto 32 GB • 4.32 cm (1.7 inch) Display • 2MP Rear Camera • 1050 mAh Battery • 1 Year ₹1,650 ₹2,299 28% off Only few left Bank Offer" [ref=e1333] [cursor=pointer]:
+          - /url: /good-one-magic/p/itm848698fe6ec7f?pid=MOBG6GDEY6PNSAAQ&lid=LSTMOBG6GDEY6PNSAAQJT3SGW&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_20&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBG6GDEY6PNSAAQ.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e1334]:
+            - img "Good One Magic" [ref=e1338]
+            - generic [ref=e1344]: Add to Compare
+            - img [ref=e1347]
+          - generic [ref=e1349]:
+            - generic [ref=e1350]:
+              - generic [ref=e1351]: Good One Magic
+              - generic [ref=e1352]:
+                - generic [ref=e1354]:
+                  - text: "4"
+                  - img [ref=e1355]
+                - generic [ref=e1357]: 4,345 Ratings & 340 Reviews
+              - list [ref=e1359]:
+                - listitem [ref=e1360]: • 32 MB RAM | 32 MB ROM | Expandable Upto 32 GB
+                - listitem [ref=e1361]: • 4.32 cm (1.7 inch) Display
+                - listitem [ref=e1362]: • 2MP Rear Camera
+                - listitem [ref=e1363]: • 1050 mAh Battery
+                - listitem [ref=e1364]: • 1 Year
+            - generic [ref=e1365]:
+              - generic [ref=e1367]:
+                - generic [ref=e1368]: ₹1,650
+                - generic [ref=e1369]: ₹2,299
+                - generic [ref=e1370]: 28% off
+              - generic [ref=e1373]: Only few left
+              - generic [ref=e1376]: Bank Offer
+        - link "Apple iPhone 17 (White, 256 GB) Add to Compare Apple iPhone 17 (White, 256 GB) 4.6 8,730 Ratings & 472 Reviews • 256 GB ROM • 16.0 cm (6.3 inch) Super Retina XDR Display • 48MP + 48MP | 18MP Front Camera • A19 Chip, 6 Core Processor Processor • Apple One (1) Year Limited Warranty ₹82,900 Upto ₹52,350 Off on Exchange Bank Offer" [ref=e1381] [cursor=pointer]:
+          - /url: /apple-iphone-17-white-256-gb/p/itmf98e89534d806?pid=MOBHFN6YTSH3QRCZ&lid=LSTMOBHFN6YTSH3QRCZYMRV03&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_21&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBHFN6YTSH3QRCZ.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e1382]:
+            - img "Apple iPhone 17 (White, 256 GB)" [ref=e1386]
+            - generic [ref=e1392]: Add to Compare
+            - img [ref=e1395]
+          - generic [ref=e1397]:
+            - generic [ref=e1398]:
+              - generic [ref=e1399]: Apple iPhone 17 (White, 256 GB)
+              - generic [ref=e1400]:
+                - generic [ref=e1402]:
+                  - text: "4.6"
+                  - img [ref=e1403]
+                - generic [ref=e1405]: 8,730 Ratings & 472 Reviews
+              - list [ref=e1407]:
+                - listitem [ref=e1408]: • 256 GB ROM
+                - listitem [ref=e1409]: • 16.0 cm (6.3 inch) Super Retina XDR Display
+                - listitem [ref=e1410]: • 48MP + 48MP | 18MP Front Camera
+                - listitem [ref=e1411]: • A19 Chip, 6 Core Processor Processor
+                - listitem [ref=e1412]: • Apple One (1) Year Limited Warranty
+            - generic [ref=e1413]:
+              - generic [ref=e1416]: ₹82,900
+              - img [ref=e1418]
+              - generic [ref=e1420]:
+                - generic [ref=e1421]: Upto
+                - generic [ref=e1422]: ₹52,350
+                - generic [ref=e1423]: Off on Exchange
+              - generic [ref=e1426]: Bank Offer
+        - link "Apple iPhone 17 (Sage, 256 GB) Add to Compare Apple iPhone 17 (Sage, 256 GB) 4.6 8,730 Ratings & 472 Reviews • 256 GB ROM • 16.0 cm (6.3 inch) Super Retina XDR Display • 48MP + 48MP | 18MP Front Camera • A19 Chip, 6 Core Processor Processor • Apple One (1) Year Limited Warranty ₹82,900 Upto ₹52,350 Off on Exchange Bank Offer" [ref=e1431] [cursor=pointer]:
+          - /url: /apple-iphone-17-sage-256-gb/p/itmcfa57eff7729c?pid=MOBHFN6YNAG4ZTHS&lid=LSTMOBHFN6YNAG4ZTHSWUQQUI&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&spotlightTagId=default_BestsellerId_tyy%2F4io&srno=s_1_22&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBHFN6YNAG4ZTHS.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e1432]:
+            - img "Apple iPhone 17 (Sage, 256 GB)" [ref=e1436]
+            - generic [ref=e1442]: Add to Compare
+            - img [ref=e1445]
+          - generic [ref=e1447]:
+            - generic [ref=e1448]:
+              - generic [ref=e1449]: Apple iPhone 17 (Sage, 256 GB)
+              - generic [ref=e1450]:
+                - generic [ref=e1452]:
+                  - text: "4.6"
+                  - img [ref=e1453]
+                - generic [ref=e1455]: 8,730 Ratings & 472 Reviews
+              - list [ref=e1457]:
+                - listitem [ref=e1458]: • 256 GB ROM
+                - listitem [ref=e1459]: • 16.0 cm (6.3 inch) Super Retina XDR Display
+                - listitem [ref=e1460]: • 48MP + 48MP | 18MP Front Camera
+                - listitem [ref=e1461]: • A19 Chip, 6 Core Processor Processor
+                - listitem [ref=e1462]: • Apple One (1) Year Limited Warranty
+            - generic [ref=e1463]:
+              - generic [ref=e1466]: ₹82,900
+              - img [ref=e1468]
+              - generic [ref=e1470]:
+                - generic [ref=e1471]: Upto
+                - generic [ref=e1472]: ₹52,350
+                - generic [ref=e1473]: Off on Exchange
+              - generic [ref=e1476]: Bank Offer
+        - link "Apple iPhone 15 (Blue, 256 GB) Add to Compare Apple iPhone 15 (Blue, 256 GB) 4.6 2,73,883 Ratings & 9,562 Reviews • 256 GB ROM • 15.49 cm (6.1 inch) Super Retina XDR Display • 48MP + 12MP | 12MP Front Camera • A16 Bionic Chip, 6 Core Processor Processor • 1 year warranty for phone and 1 year warranty for in Box Accessories. ₹69,900 Upto ₹47,350 Off on Exchange Bank Offer" [ref=e1481] [cursor=pointer]:
+          - /url: /apple-iphone-15-blue-256-gb/p/itm986f66c53cae4?pid=MOBGTAGPNEZZY2YR&lid=LSTMOBGTAGPNEZZY2YR3VRTJK&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_23&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBGTAGPNEZZY2YR.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e1482]:
+            - img "Apple iPhone 15 (Blue, 256 GB)" [ref=e1486]
+            - generic [ref=e1492]: Add to Compare
+            - img [ref=e1495]
+          - generic [ref=e1497]:
+            - generic [ref=e1498]:
+              - generic [ref=e1499]: Apple iPhone 15 (Blue, 256 GB)
+              - generic [ref=e1500]:
+                - generic [ref=e1502]:
+                  - text: "4.6"
+                  - img [ref=e1503]
+                - generic [ref=e1505]: 2,73,883 Ratings & 9,562 Reviews
+              - list [ref=e1507]:
+                - listitem [ref=e1508]: • 256 GB ROM
+                - listitem [ref=e1509]: • 15.49 cm (6.1 inch) Super Retina XDR Display
+                - listitem [ref=e1510]: • 48MP + 12MP | 12MP Front Camera
+                - listitem [ref=e1511]: • A16 Bionic Chip, 6 Core Processor Processor
+                - listitem [ref=e1512]: • 1 year warranty for phone and 1 year warranty for in Box Accessories.
+            - generic [ref=e1513]:
+              - generic [ref=e1516]: ₹69,900
+              - img [ref=e1518]
+              - generic [ref=e1520]:
+                - generic [ref=e1521]: Upto
+                - generic [ref=e1522]: ₹47,350
+                - generic [ref=e1523]: Off on Exchange
+              - generic [ref=e1526]: Bank Offer
+        - link "Good One Magic Add to Compare Good One Magic 4 4,345 Ratings & 340 Reviews • 32 MB RAM | 32 MB ROM • 4.32 cm (1.7 inch) HQVGA Display • 2MP Rear Camera • 1050 mAh Battery • 1 Year ₹1,650 ₹2,299 28% off Only few left Bank Offer" [ref=e1531] [cursor=pointer]:
+          - /url: /good-one-magic/p/itm848698fe6ec7f?pid=MOBFKYHBUGBZHQJR&lid=LSTMOBFKYHBUGBZHQJR1O3HGY&marketplace=FLIPKART&q=iphone+15+128gb&store=tyy%2F4io&srno=s_1_24&otracker=search&fm=organic&iid=597b3769-c713-465f-9fa7-4279d5f339ac.MOBFKYHBUGBZHQJR.SEARCH&ppt=None&ppn=None&ssid=lqdfgwx0e80000001776361544272&qH=d9900aed7c94cc02&ov_redirect=true
+          - generic [ref=e1532]:
+            - img "Good One Magic" [ref=e1536]
+            - generic [ref=e1542]: Add to Compare
+            - img [ref=e1545]
+          - generic [ref=e1547]:
+            - generic [ref=e1548]:
+              - generic [ref=e1549]: Good One Magic
+              - generic [ref=e1550]:
+                - generic [ref=e1552]:
+                  - text: "4"
+                  - img [ref=e1553]
+                - generic [ref=e1555]: 4,345 Ratings & 340 Reviews
+              - list [ref=e1557]:
+                - listitem [ref=e1558]: • 32 MB RAM | 32 MB ROM
+                - listitem [ref=e1559]: • 4.32 cm (1.7 inch) HQVGA Display
+                - listitem [ref=e1560]: • 2MP Rear Camera
+                - listitem [ref=e1561]: • 1050 mAh Battery
+                - listitem [ref=e1562]: • 1 Year
+            - generic [ref=e1563]:
+              - generic [ref=e1565]:
+                - generic [ref=e1566]: ₹1,650
+                - generic [ref=e1567]: ₹2,299
+                - generic [ref=e1568]: 28% off
+              - generic [ref=e1571]: Only few left
+              - generic [ref=e1574]: Bank Offer
+        - generic [ref=e1577]:
+          - generic [ref=e1578]: Page 1 of 29
+          - navigation [ref=e1579]:
+            - link "1" [ref=e1580] [cursor=pointer]:
+              - /url: /search?q=iphone+15+128gb&otracker=search&page=1
+            - link "2" [ref=e1581] [cursor=pointer]:
+              - /url: /search?q=iphone+15+128gb&otracker=search&page=2
+            - link "3" [ref=e1582] [cursor=pointer]:
+              - /url: /search?q=iphone+15+128gb&otracker=search&page=3
+            - link "4" [ref=e1583] [cursor=pointer]:
+              - /url: /search?q=iphone+15+128gb&otracker=search&page=4
+            - link "5" [ref=e1584] [cursor=pointer]:
+              - /url: /search?q=iphone+15+128gb&otracker=search&page=5
+            - link "6" [ref=e1585] [cursor=pointer]:
+              - /url: /search?q=iphone+15+128gb&otracker=search&page=6
+            - link "7" [ref=e1586] [cursor=pointer]:
+              - /url: /search?q=iphone+15+128gb&otracker=search&page=7
+            - link "8" [ref=e1587] [cursor=pointer]:
+              - /url: /search?q=iphone+15+128gb&otracker=search&page=8
+            - link "9" [ref=e1588] [cursor=pointer]:
+              - /url: /search?q=iphone+15+128gb&otracker=search&page=9
+            - link "10" [ref=e1589] [cursor=pointer]:
+              - /url: /search?q=iphone+15+128gb&otracker=search&page=10
+            - link "Next" [ref=e1590] [cursor=pointer]:
+              - /url: /search?q=iphone+15+128gb&otracker=search&page=2
+        - generic [ref=e1592]:
+          - text: Did you find what you were looking for?
+          - generic [ref=e1593]:
+            - generic [ref=e1594] [cursor=pointer]: "Yes"
+            - generic [ref=e1595] [cursor=pointer]: "No"
+    - generic [ref=e1597]:
+      - generic [ref=e1598]: Reviews for Popular Mobiles
+      - generic [ref=e1599]:
+        - generic [ref=e1600]:
+          - generic [ref=e1602]:
+            - img "Apple iPhone 15 Plus (Pink, 128 GB)"
+          - generic [ref=e1603]:
+            - link "1. Apple iPhone 15 Plus (Pink,... 4.6 47,814 Ratings&2,599 Reviews ₹69,900" [ref=e1604] [cursor=pointer]:
+              - /url: /apple-iphone-15-plus-pink-128-gb/p/itmecb6209a78172?pid=MOBGTAGPXUWEXXWY&marketplace=FLIPKART&ov_redirect=true
+              - generic [ref=e1606]: 1. Apple iPhone 15 Plus (Pink,...
+              - generic [ref=e1607]:
+                - generic [ref=e1608]:
+                  - text: "4.6"
+                  - img [ref=e1609]
+                - generic [ref=e1610]:
+                  - text: 47,814 Ratings
+                  - generic [ref=e1611]: "&2,599 Reviews"
+              - generic [ref=e1614]: ₹69,900
+            - list [ref=e1615]:
+              - listitem [ref=e1616]: 128 GB ROM
+              - listitem [ref=e1617]: 17.02 cm (6.7 inch) Super Retina XDR Display
+              - listitem [ref=e1618]: 48MP + 12MP | 12MP Front Camera
+        - generic [ref=e1619]:
+          - generic [ref=e1620]: Most Helpful Review
+          - generic [ref=e1622]:
+            - generic [ref=e1623]:
+              - generic [ref=e1624]:
+                - text: "5"
+                - img [ref=e1625]
+              - paragraph [ref=e1626]: Must buy!
+            - generic [ref=e1630]:
+              - text: Blue colour is very light
+              - text: But performance is very good
+            - generic [ref=e1632]:
+              - paragraph [ref=e1633]: Ashutosh Singh
+              - img [ref=e1634]
+              - paragraph [ref=e1638]: Certified Buyer
+              - paragraph [ref=e1639]: Jan, 2024
+        - generic [ref=e1640]:
+          - generic [ref=e1641]: Recent Review
+          - generic [ref=e1643]:
+            - generic [ref=e1644]:
+              - generic [ref=e1645]:
+                - text: "4"
+                - img [ref=e1646]
+              - paragraph [ref=e1647]: Worth the money
+            - generic [ref=e1651]: Great device. Working flawlessly.
+            - generic [ref=e1653]:
+              - paragraph [ref=e1654]: A Qadir A
+              - img [ref=e1655]
+              - paragraph [ref=e1659]: Certified Buyer
+              - paragraph [ref=e1660]: 1 month ago
+      - generic [ref=e1661]:
+        - generic [ref=e1662]:
+          - generic [ref=e1664]:
+            - img "Apple iPhone 15 Pro (White Titanium, 128 GB)"
+          - generic [ref=e1665]:
+            - link "2. Apple iPhone 15 Pro (White ... 4.7 3,152 Ratings&159 Reviews ₹1,34,900" [ref=e1666] [cursor=pointer]:
+              - /url: /apple-iphone-15-pro-white-titanium-128-gb/p/itm786eaa7ec159e?pid=MOBGTAGPFGSCNHJF&marketplace=FLIPKART&ov_redirect=true
+              - generic [ref=e1668]: 2. Apple iPhone 15 Pro (White ...
+              - generic [ref=e1669]:
+                - generic [ref=e1670]:
+                  - text: "4.7"
+                  - img [ref=e1671]
+                - generic [ref=e1672]:
+                  - text: 3,152 Ratings
+                  - generic [ref=e1673]: "&159 Reviews"
+              - generic [ref=e1676]: ₹1,34,900
+            - list [ref=e1677]:
+              - listitem [ref=e1678]: 128 GB ROM
+              - listitem [ref=e1679]: 15.49 cm (6.1 inch) Super Retina XDR Display
+              - listitem [ref=e1680]: 48MP + 12MP + 12MP | 12MP Front Camera
+        - generic [ref=e1681]:
+          - generic [ref=e1682]: Most Helpful Review
+          - generic [ref=e1684]:
+            - generic [ref=e1685]:
+              - generic [ref=e1686]:
+                - text: "5"
+                - img [ref=e1687]
+              - paragraph [ref=e1688]: Fabulous!
+            - generic [ref=e1692]: Extremely Happy with my 15pro mobile,,😊thanq seller n Flipkart for the fast delivery
+            - generic [ref=e1694]:
+              - paragraph [ref=e1695]: Dr priyanka L priyanka
+              - img [ref=e1696]
+              - paragraph [ref=e1700]: Certified Buyer
+              - paragraph [ref=e1701]: Oct, 2023
+        - generic [ref=e1702]:
+          - generic [ref=e1703]: Recent Review
+          - generic [ref=e1705]:
+            - generic [ref=e1706]:
+              - generic [ref=e1707]:
+                - text: "5"
+                - img [ref=e1708]
+              - paragraph [ref=e1709]: Worth every penny
+            - generic [ref=e1713]: Loved this phone. Ensure you buy a good case to protect the phone.
+            - generic [ref=e1715]:
+              - paragraph [ref=e1716]: Flipkart Customer
+              - img [ref=e1717]
+              - paragraph [ref=e1721]: Certified Buyer
+              - paragraph [ref=e1722]: 6 months ago
+      - generic [ref=e1723]:
+        - generic [ref=e1724]:
+          - generic [ref=e1726]:
+            - img "Good One Magic"
+          - generic [ref=e1727]:
+            - link "3. Good One Magic 4 4,345 Ratings&340 Reviews ₹1,650 28% off" [ref=e1728] [cursor=pointer]:
+              - /url: /good-one-magic/p/itm848698fe6ec7f?pid=MOBG6GDEY6PNSAAQ&marketplace=FLIPKART&ov_redirect=true
+              - generic [ref=e1730]: 3. Good One Magic
+              - generic [ref=e1731]:
+                - generic [ref=e1732]:
+                  - text: "4"
+                  - img [ref=e1733]
+                - generic [ref=e1734]:
+                  - text: 4,345 Ratings
+                  - generic [ref=e1735]: "&340 Reviews"
+              - generic [ref=e1737]:
+                - generic [ref=e1738]: ₹1,650
+                - generic [ref=e1739]: 28% off
+            - list [ref=e1740]:
+              - listitem [ref=e1741]: 32 MB RAM | 32 MB ROM | Expandable Upto 32 GB
+              - listitem [ref=e1742]: 4.32 cm (1.7 inch) Display
+              - listitem [ref=e1743]: 2MP Rear Camera
+        - generic [ref=e1744]:
+          - generic [ref=e1745]: Most Helpful Review
+          - generic [ref=e1747]:
+            - generic [ref=e1748]:
+              - generic [ref=e1749]:
+                - text: "5"
+                - img [ref=e1750]
+              - paragraph [ref=e1751]: Awesome
+            - generic [ref=e1755]:
+              - text: NICE CAR MOBILE PHONE MUST BUY.
+              - text: THANK YOU FLIPKART !!!
+            - generic [ref=e1757]:
+              - paragraph [ref=e1758]: Inbeer
+              - img [ref=e1759]
+              - paragraph [ref=e1763]: Certified Buyer
+              - paragraph [ref=e1764]: Mar, 2020
+        - generic [ref=e1765]:
+          - generic [ref=e1766]: Recent Review
+          - generic [ref=e1768]:
+            - generic [ref=e1769]:
+              - generic [ref=e1770]:
+                - text: "2"
+                - img [ref=e1771]
+              - paragraph [ref=e1772]: Expected a better product
+            - generic [ref=e1776]: Very bad quality calling not working
+            - generic [ref=e1778]:
+              - paragraph [ref=e1779]: shivanand prajapati
+              - img [ref=e1780]
+              - paragraph [ref=e1784]: Certified Buyer
+              - paragraph [ref=e1785]: 12 days ago
+      - generic [ref=e1786]:
+        - generic [ref=e1787]:
+          - generic [ref=e1789]:
+            - img "Apple iPhone 15 (Blue, 128 GB)"
+          - generic [ref=e1790]:
+            - link "4. Apple iPhone 15 (Blue, 128 ... 4.6 2,73,883 Ratings&9,562 Reviews ₹59,900" [ref=e1791] [cursor=pointer]:
+              - /url: /apple-iphone-15-blue-128-gb/p/itmbf14ef54f645d?pid=MOBGTAGPAQNVFZZY&marketplace=FLIPKART&ov_redirect=true
+              - generic [ref=e1793]: 4. Apple iPhone 15 (Blue, 128 ...
+              - generic [ref=e1794]:
+                - generic [ref=e1795]:
+                  - text: "4.6"
+                  - img [ref=e1796]
+                - generic [ref=e1797]:
+                  - text: 2,73,883 Ratings
+                  - generic [ref=e1798]: "&9,562 Reviews"
+              - generic [ref=e1801]: ₹59,900
+            - list [ref=e1802]:
+              - listitem [ref=e1803]: 128 GB ROM
+              - listitem [ref=e1804]: 15.49 cm (6.1 inch) Super Retina XDR Display
+              - listitem [ref=e1805]: 48MP + 12MP | 12MP Front Camera
+        - generic [ref=e1806]:
+          - generic [ref=e1807]: Most Helpful Review
+          - generic [ref=e1809]:
+            - generic [ref=e1810]:
+              - generic [ref=e1811]:
+                - text: "5"
+                - img [ref=e1812]
+              - paragraph [ref=e1813]: Awesome
+            - generic [ref=e1817]: Switch from OnePlus to iPhone I am stunned with camera performance. Everything is perfect on iPhone 15.
+            - generic [ref=e1819]:
+              - paragraph [ref=e1820]: Nikhil Kumar
+              - img [ref=e1821]
+              - paragraph [ref=e1825]: Certified Buyer
+              - paragraph [ref=e1826]: Jan, 2024
+        - generic [ref=e1827]:
+          - generic [ref=e1828]: Recent Review
+          - generic [ref=e1830]:
+            - generic [ref=e1831]:
+              - generic [ref=e1832]:
+                - text: "5"
+                - img [ref=e1833]
+              - paragraph [ref=e1834]: Highly recommended
+            - generic [ref=e1838]: Best camera and for video 📸 soot
+            - generic [ref=e1840]:
+              - paragraph [ref=e1841]: Dilshad khan
+              - img [ref=e1842]
+              - paragraph [ref=e1846]: Certified Buyer
+              - paragraph [ref=e1847]: 3 days ago
+      - generic [ref=e1848]:
+        - generic [ref=e1849]:
+          - generic [ref=e1851]:
+            - img "Apple iPhone 17 (Sage, 256 GB)"
+          - generic [ref=e1852]:
+            - link "5. Apple iPhone 17 (Sage, 256 ... 4.6 8,730 Ratings&472 Reviews ₹82,900" [ref=e1853] [cursor=pointer]:
+              - /url: /apple-iphone-17-sage-256-gb/p/itmcfa57eff7729c?pid=MOBHFN6YNAG4ZTHS&marketplace=FLIPKART&ov_redirect=true
+              - generic [ref=e1855]: 5. Apple iPhone 17 (Sage, 256 ...
+              - generic [ref=e1856]:
+                - generic [ref=e1857]:
+                  - text: "4.6"
+                  - img [ref=e1858]
+                - generic [ref=e1859]:
+                  - text: 8,730 Ratings
+                  - generic [ref=e1860]: "&472 Reviews"
+              - generic [ref=e1863]: ₹82,900
+            - list [ref=e1864]:
+              - listitem [ref=e1865]: 256 GB ROM
+              - listitem [ref=e1866]: 16.0 cm (6.3 inch) Super Retina XDR Display
+              - listitem [ref=e1867]: 48MP + 48MP | 18MP Front Camera
+        - generic [ref=e1868]:
+          - generic [ref=e1869]: Most Helpful Review
+          - generic [ref=e1871]:
+            - generic [ref=e1872]:
+              - generic [ref=e1873]:
+                - text: "5"
+                - img [ref=e1874]
+              - paragraph [ref=e1875]: Highly recommended
+            - generic [ref=e1879]: Go for it much better compared to the previous one and 120 hz display is like😍😮
+            - generic [ref=e1881]:
+              - paragraph [ref=e1882]: Sourav Mohanty
+              - img [ref=e1883]
+              - paragraph [ref=e1887]: Certified Buyer
+              - paragraph [ref=e1888]: 5 months ago
+        - generic [ref=e1889]:
+          - generic [ref=e1890]: Recent Review
+          - generic [ref=e1892]:
+            - generic [ref=e1893]:
+              - generic [ref=e1894]:
+                - text: "5"
+                - img [ref=e1895]
+              - paragraph [ref=e1896]: Super!
+            - generic [ref=e1900]: Must buy, performance at its best
+            - generic [ref=e1902]:
+              - paragraph [ref=e1903]: Abhishek Anjinappa
+              - img [ref=e1904]
+              - paragraph [ref=e1908]: Certified Buyer
+              - paragraph [ref=e1909]: 1 day ago
+  - contentinfo [ref=e1910]:
+    - generic [ref=e1912]:
+      - generic [ref=e1913]:
+        - generic [ref=e1914]:
+          - generic [ref=e1915]: ABOUT
+          - link "Contact Us" [ref=e1916] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+          - link "About Us" [ref=e1917] [cursor=pointer]:
+            - /url: https://corporate.flipkart.net/corporate-home
+          - link "Careers" [ref=e1918] [cursor=pointer]:
+            - /url: https://www.flipkartcareers.com/?otracker=footer_navlinks
+          - link "Flipkart Stories" [ref=e1919] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/?otracker=footer_navlinks
+          - link "Press" [ref=e1920] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/category/top-stories/news/
+          - link "Corporate Information" [ref=e1921] [cursor=pointer]:
+            - /url: /corporate-information
+        - generic [ref=e1922]:
+          - generic [ref=e1923]: GROUP COMPANIES
+          - link "Myntra" [ref=e1924] [cursor=pointer]:
+            - /url: https://www.myntra.com/
+          - link "Cleartrip" [ref=e1925] [cursor=pointer]:
+            - /url: https://www.cleartrip.com/
+          - link "Shopsy" [ref=e1926] [cursor=pointer]:
+            - /url: https://www.shopsy.in/
+        - generic [ref=e1927]:
+          - generic [ref=e1928]: HELP
+          - link "Payments" [ref=e1929] [cursor=pointer]:
+            - /url: /pages/payments
+          - link "Shipping" [ref=e1930] [cursor=pointer]:
+            - /url: /pages/shipping
+          - link "Cancellation & Returns" [ref=e1931] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+          - link "FAQ" [ref=e1932] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+        - generic [ref=e1933]:
+          - generic [ref=e1934]: CONSUMER POLICY
+          - link "Cancellation & Returns" [ref=e1935] [cursor=pointer]:
+            - /url: /pages/returnpolicy?otracker=footer_navlinks
+          - link "Terms Of Use" [ref=e1936] [cursor=pointer]:
+            - /url: /pages/terms?otracker=footer_navlinks
+          - link "Security" [ref=e1937] [cursor=pointer]:
+            - /url: /pages/paymentsecurity?otracker=footer_navlinks
+          - link "Privacy" [ref=e1938] [cursor=pointer]:
+            - /url: /pages/privacypolicy?otracker=footer_navlinks
+          - link "Sitemap" [ref=e1939] [cursor=pointer]:
+            - /url: /sitemap?otracker=footer_navlinks
+          - link "Grievance Redressal" [ref=e1940] [cursor=pointer]:
+            - /url: /pages/grievance-redressal-mechanism?otracker=footer_navlinks
+          - link "EPR Compliance" [ref=e1941] [cursor=pointer]:
+            - /url: /pages/ewaste-compliance-tnc?otracker=footer_navlinks
+          - link "FSSAI Food Safety Connect App" [ref=e1942] [cursor=pointer]:
+            - /url: https://fssai.gov.in/cms/food-safety-connect.php
+        - generic [ref=e1944]:
+          - generic [ref=e1945]: "Mail Us:"
+          - generic [ref=e1948]:
+            - paragraph [ref=e1949]: Flipkart Internet Private Limited,
+            - paragraph [ref=e1950]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e1951]: Clove Embassy Tech Village,
+            - paragraph [ref=e1952]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e1953]: Bengaluru, 560103,
+            - paragraph [ref=e1954]: Karnataka, India
+          - generic [ref=e1955]: Social
+          - generic [ref=e1956]:
+            - link [ref=e1958] [cursor=pointer]:
+              - /url: https://www.facebook.com/flipkart
+              - img [ref=e1959]
+            - link [ref=e1961] [cursor=pointer]:
+              - /url: https://www.twitter.com/flipkart
+              - img [ref=e1962]
+            - link [ref=e1964] [cursor=pointer]:
+              - /url: https://www.youtube.com/flipkart
+              - img [ref=e1965]
+            - link [ref=e1967] [cursor=pointer]:
+              - /url: https://www.instagram.com/flipkart
+              - img [ref=e1968]
+        - generic [ref=e1970]:
+          - generic [ref=e1971]: "Registered Office Address:"
+          - generic [ref=e1974]:
+            - paragraph [ref=e1975]: Flipkart Internet Private Limited,
+            - paragraph [ref=e1976]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e1977]: Clove Embassy Tech Village,
+            - paragraph [ref=e1978]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e1979]: Bengaluru, 560103,
+            - paragraph [ref=e1980]: Karnataka, India
+            - paragraph [ref=e1981]: "CIN : U51109KA2012PTC066107"
+            - paragraph [ref=e1982]:
+              - text: "Telephone:"
+              - link "044-45614700" [ref=e1983] [cursor=pointer]:
+                - /url: tel:044-45614700
+              - text: /
+              - link "044-67415800" [ref=e1984] [cursor=pointer]:
+                - /url: tel:044-67415800
+      - generic [ref=e1986]:
+        - generic [ref=e1987]:
+          - img [ref=e1988]
+          - link "Become a Seller" [ref=e1989] [cursor=pointer]:
+            - /url: https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+        - generic [ref=e1990]:
+          - img [ref=e1991]
+          - link "Advertise" [ref=e1992] [cursor=pointer]:
+            - /url: https://brands.flipkart.com
+        - generic [ref=e1993]:
+          - img [ref=e1994]
+          - link "Gift Cards" [ref=e1995] [cursor=pointer]:
+            - /url: /the-gift-card-store?otracker=footer_navlinks
+        - generic [ref=e1996]:
+          - img [ref=e1997]
+          - link "Help Center" [ref=e1998] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+        - generic [ref=e1999]: © 2007-2026 Flipkart.com
+        - img [ref=e2000]

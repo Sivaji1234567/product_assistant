@@ -1,0 +1,259 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - link "navigate to Orders" [ref=e10] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/c/order/tracking
+            - text: Orders
+          - link "navigate to Contact us" [ref=e12] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/c/contact-us
+            - text: Contact us
+          - link "navigate to Resource Center" [ref=e14] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/c/resource-center
+            - text: Resource Center
+          - link "navigate to Find a store" [ref=e16] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/c/store-locator
+            - text: Find a store
+        - generic [ref=e20]:
+          - link "reliance digital logo" [ref=e22] [cursor=pointer]:
+            - /url: /
+            - img "Reliance Digital" [ref=e24]
+          - generic [ref=e27] [cursor=pointer]:
+            - textbox "Search Products & Brands" [ref=e31]
+            - generic [ref=e32]:
+              - generic:
+                - list
+          - generic [ref=e33]:
+            - button "Set Pincode" [ref=e39]:
+              - generic [ref=e40]:
+                - img [ref=e42]
+                - generic [ref=e44]: 400001 - Mumbai
+              - img [ref=e47] [cursor=pointer]
+            - link "goto cart" [ref=e49] [cursor=pointer]:
+              - /url: /cart/bag/
+              - img [ref=e50]
+              - generic [ref=e52]: Cart
+            - button "Wishlist" [ref=e54] [cursor=pointer]:
+              - img [ref=e55]
+              - generic [ref=e57]: Wishlist
+            - generic [ref=e60] [cursor=pointer]:
+              - button "Account Details" [ref=e61]:
+                - img "Account Details" [ref=e62]
+              - generic [ref=e64]: Login
+        - generic [ref=e70]:
+          - button "left arrow" [ref=e71] [cursor=pointer]:
+            - img "left arrow" [ref=e72]
+          - generic [ref=e73]:
+            - link "open Air Conditioners" [ref=e77] [cursor=pointer]:
+              - /url: /sections/air-conditioners
+              - img "navIcon" [ref=e80]
+              - generic [ref=e81]: Air Conditioners
+            - link "open Televisions" [ref=e85] [cursor=pointer]:
+              - /url: /sections/televisions
+              - img "navIcon" [ref=e88]
+              - generic [ref=e89]: Televisions
+            - link "open Mobiles" [ref=e93] [cursor=pointer]:
+              - /url: /sections/mobiles
+              - img "navIcon" [ref=e96]
+              - generic [ref=e97]: Mobiles
+            - link "open Air Coolers" [ref=e101] [cursor=pointer]:
+              - /url: /sections/air-coolers
+              - img "navIcon" [ref=e104]
+              - generic [ref=e105]: Air Coolers
+            - link "open Audio" [ref=e109] [cursor=pointer]:
+              - /url: /sections/audio
+              - img "navIcon" [ref=e112]
+              - generic [ref=e113]: Audio
+            - link "open Tablets" [ref=e117] [cursor=pointer]:
+              - /url: /sections/tablets
+              - img "navIcon" [ref=e120]
+              - generic [ref=e121]: Tablets
+            - link "open Refrigerators" [ref=e125] [cursor=pointer]:
+              - /url: /sections/refrigerators
+              - img "navIcon" [ref=e128]
+              - generic [ref=e129]: Refrigerators
+            - link "open Laptops" [ref=e133] [cursor=pointer]:
+              - /url: /sections/laptops
+              - img "navIcon" [ref=e136]
+              - generic [ref=e137]: Laptops
+            - link "open Apple Store" [ref=e141] [cursor=pointer]:
+              - /url: /sections/apple-store
+              - img "navIcon" [ref=e144]
+              - generic [ref=e145]: Apple Store
+            - link "open Smart Wearables" [ref=e149] [cursor=pointer]:
+              - /url: /sections/smart-watches
+              - img "navIcon" [ref=e152]
+              - generic [ref=e153]: Smart Wearables
+            - link "open Small Appliances" [ref=e157] [cursor=pointer]:
+              - /url: /sections/small-domestic-appliances
+              - img "navIcon" [ref=e160]
+              - generic [ref=e161]: Small Appliances
+            - link "open Washing Machines" [ref=e165] [cursor=pointer]:
+              - /url: /sections/washing-machines
+              - img "navIcon" [ref=e168]
+              - generic [ref=e169]: Washing Machines
+            - link "open All Categories" [ref=e173] [cursor=pointer]:
+              - /url: /c/all-categories
+              - img "navIcon" [ref=e176]
+              - generic [ref=e177]: All Categories
+              - img [ref=e179]
+          - button "right arrow" [ref=e181] [cursor=pointer]:
+            - img "right arrow" [ref=e182]
+      - generic [ref=e190]:
+        - img "image of Oops! The page was not found" [ref=e191]
+        - heading "Oops! The page was not found" [level=1] [ref=e192]
+        - paragraph [ref=e193]: The specific page that you’re looking for was not found or maybe an error, try refreshing the page.
+        - generic [ref=e194]:
+          - link "Refresh Page" [ref=e195] [cursor=pointer]:
+            - /url: ""
+            - button "Refresh Page" [ref=e196]:
+              - generic [ref=e197]: Refresh Page
+          - button "Go Back" [ref=e199] [cursor=pointer]:
+            - generic [ref=e200]: Go Back
+      - generic [ref=e206]:
+        - generic [ref=e207]:
+          - generic [ref=e208]:
+            - generic [ref=e209]:
+              - generic [ref=e210]: Product Categories
+              - generic [ref=e211]:
+                - link "goto Smartphones" [ref=e212] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/collection/mobiles/?internal_source=navigation
+                  - text: Smartphones
+                - link "goto Laptops" [ref=e213] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/collection/laptops
+                  - text: Laptops
+                - link "goto DSLR Cameras" [ref=e214] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/collection/dslr-cameras
+                  - text: DSLR Cameras
+                - link "goto Televisions" [ref=e215] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/sections/televisions
+                  - text: Televisions
+                - link "goto Air Conditioners" [ref=e216] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/collection/air-conditioners
+                  - text: Air Conditioners
+                - link "goto Refrigerator":
+                  - /url: undefined
+                  - text: Refrigerator
+                - link "goto Kitchen Appliances" [ref=e217] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/collection/kitchen-appliances
+                  - text: Kitchen Appliances
+                - link "goto Accessories" [ref=e218] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/collection/accessories
+                  - text: Accessories
+                - link "goto Personal Care & Grooming" [ref=e219] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/collection/personal-care-grooming
+                  - text: Personal Care & Grooming
+            - generic [ref=e220]:
+              - generic [ref=e221]: Site Info
+              - generic [ref=e222]:
+                - link "goto About Reliance Digital" [ref=e223] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/about-reliance-digital
+                  - text: About Reliance Digital
+                - link "goto resQ Services" [ref=e224] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/resQ-services
+                  - text: resQ Services
+                - link "goto Site Map" [ref=e225] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/all-categories
+                  - text: Site Map
+                - link "goto Gift Cards" [ref=e226] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/gift-cards
+                  - text: Gift Cards
+                - link "goto Corporate Enquiries" [ref=e227] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/corporate-enquires
+                  - text: Corporate Enquiries
+                - link "goto Contact Us" [ref=e228] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/contact-us
+                  - text: Contact Us
+            - generic [ref=e229]:
+              - generic [ref=e230]: Resource Center
+              - generic [ref=e231]:
+                - link "goto Buying Guides" [ref=e232] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/resource-center/buying-guides
+                  - text: Buying Guides
+                - link "goto Manuals" [ref=e233] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/resource-center/manuals
+                  - text: Manuals
+                - link "goto How To's" [ref=e234] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/resource-center/how-tos
+                  - text: How To's
+                - link "goto Compare Products" [ref=e235] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/resource-center/compare
+                  - text: Compare Products
+                - link "goto Nearest Store" [ref=e236] [cursor=pointer]:
+                  - /url: https://www.reliancedigitalstores.in/
+                  - text: Nearest Store
+            - generic [ref=e237]:
+              - generic [ref=e238]: Policies
+              - generic [ref=e239]:
+                - link "goto Terms of Use" [ref=e240] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/terms-of-use
+                  - text: Terms of Use
+                - link "goto FAQs" [ref=e241] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/faqs
+                  - text: FAQs
+                - link "goto Cancellation and Returns Policy" [ref=e242] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/cancellation-and-return-policy
+                  - text: Cancellation and Returns Policy
+                - link "goto Pricing & Payments Policy" [ref=e243] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/pricing-and-payments-policy
+                  - text: Pricing & Payments Policy
+                - link "goto Privacy Policy" [ref=e244] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/privacy-policy
+                  - text: Privacy Policy
+                - link "goto E-waste Recycling Policy" [ref=e245] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/e-waste-recycling-policy
+                  - text: E-waste Recycling Policy
+                - link "goto EMI and Additional Cashback T&C" [ref=e246] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/emi-and-additional-cashback-terms-and-conditions
+                  - text: EMI and Additional Cashback T&C
+                - link "goto RelianceOne Loyalty Program T&C" [ref=e247] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/relianceone-loyalty-program-terms-and-conditions
+                  - text: RelianceOne Loyalty Program T&C
+                - link "goto Caution Notice" [ref=e248] [cursor=pointer]:
+                  - /url: https://www.reliancedigital.in/c/caution-notice
+                  - text: Caution Notice
+          - generic [ref=e249]:
+            - generic [ref=e250]:
+              - img "footerBannerDataIcon" [ref=e252]
+              - generic [ref=e253]:
+                - generic [ref=e254]: Experience Reliance digital app on mobile
+                - link "Google Playstore" [ref=e257] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=in.digital.reliance
+                  - img "Google Playstore" [ref=e258]
+                - link "Apple Appstore" [ref=e261] [cursor=pointer]:
+                  - /url: https://apps.apple.com/in/app/reliance-digital-shopping-app/id1513379107
+                  - img "Apple Appstore" [ref=e262]
+            - generic [ref=e263]:
+              - generic [ref=e264]: Follow us
+              - generic [ref=e265]:
+                - link "Facebook" [ref=e267] [cursor=pointer]:
+                  - /url: https://www.facebook.com/reliancedigital/
+                  - img "Facebook" [ref=e268]
+                - link "Twitter" [ref=e270] [cursor=pointer]:
+                  - /url: https://twitter.com/reliancedigital
+                  - img "Twitter" [ref=e271]
+                - link "Youtube" [ref=e273] [cursor=pointer]:
+                  - /url: https://www.youtube.com/reliancedigital
+                  - img "Youtube" [ref=e274]
+          - generic [ref=e275]:
+            - generic [ref=e276]: Disclaimer
+            - generic [ref=e277]: Product prices, offers and availability are subject to change from time to time. All prices are inclusive of taxes. Product colours & images are only for illustration and they may not exactly match with the actual product. Product specs are subject to change & may vary from actual product. While every care is taken to avoid inaccuracies in content, these are provided as is, without warranty of any kind.
+        - generic [ref=e281]: Copyright © 2023 Reliance Digital. All rights reserved.
+    - generic [ref=e283]:
+      - generic [ref=e284]:
+        - button "Close Modal" [active] [ref=e286] [cursor=pointer]:
+          - img [ref=e287]
+        - generic [ref=e289]:
+          - generic [ref=e290]: Allow Access
+          - generic [ref=e291]: Personalise your shopping experience by allowing recommended permissions. Would you like to proceed?
+      - generic [ref=e293]:
+        - generic [ref=e294]:
+          - img "location" [ref=e296]
+          - generic [ref=e297]:
+            - generic [ref=e298]: Allow Location Access
+            - generic [ref=e299]:
+              - text: Stay updated on location-based offers
+              - text: and product availability
+        - button "Allow" [ref=e300] [cursor=pointer]
+  - status

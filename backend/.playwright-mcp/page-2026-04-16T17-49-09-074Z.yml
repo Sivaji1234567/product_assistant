@@ -1,0 +1,211 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e6]:
+        - img "Hamburger Menu" [ref=e9] [cursor=pointer]
+        - link "Logo" [ref=e16] [cursor=pointer]:
+          - /url: /
+          - img "Logo" [ref=e17]
+        - generic [ref=e18]:
+          - generic [ref=e21]:
+            - img [ref=e23]
+            - combobox [ref=e32]:
+              - textbox "What are you looking for ?" [ref=e34]
+          - generic [ref=e35]:
+            - generic [ref=e36] [cursor=pointer]:
+              - img [ref=e40]
+              - generic [ref=e46]:
+                - generic [ref=e49]: My Account
+                - list [ref=e50]:
+                  - listitem [ref=e51]:
+                    - link "user-circle My Profile Edit your basic details" [ref=e52]:
+                      - /url: /my-account/update-profile
+                      - generic [ref=e53]:
+                        - img "user-circle" [ref=e55]
+                        - generic [ref=e65]:
+                          - generic [ref=e66]: My Profile
+                          - generic [ref=e67]: Edit your basic details
+                  - listitem [ref=e68]:
+                    - link "My Address My Address Manage your saved addresses" [ref=e69]:
+                      - /url: /my-account/address-book
+                      - generic [ref=e70]:
+                        - img "My Address" [ref=e72]
+                        - generic [ref=e82]:
+                          - generic [ref=e83]: My Address
+                          - generic [ref=e84]: Manage your saved addresses
+                  - listitem [ref=e85]:
+                    - link "My Order My Orders View, track, cancel orders and buy again" [ref=e86]:
+                      - /url: /my-account/orders
+                      - generic [ref=e87]:
+                        - img "My Order" [ref=e89]
+                        - generic [ref=e100]:
+                          - generic [ref=e101]: My Orders
+                          - generic [ref=e102]: View, track, cancel orders and buy again
+                  - listitem [ref=e103]:
+                    - link "medal My Privilege Offers Exclusive offers for you" [ref=e104]:
+                      - /url: /my-account/privilege
+                      - generic [ref=e105]:
+                        - img "medal" [ref=e107]
+                        - generic [ref=e117]:
+                          - generic [ref=e118]: My Privilege Offers
+                          - generic [ref=e119]: Exclusive offers for you
+                  - listitem [ref=e120]:
+                    - link "heart-straight My Wishlist Have a look at your favourite products" [ref=e121]:
+                      - /url: /my-account/wishlist
+                      - generic [ref=e122]:
+                        - img "heart-straight" [ref=e124]
+                        - generic [ref=e132]:
+                          - generic [ref=e133]: My Wishlist
+                          - generic [ref=e134]: Have a look at your favourite products
+                  - listitem [ref=e135]:
+                    - link "My Device My Devices & Plans Manage your devices and plans" [ref=e136]:
+                      - /url: /my-account/services
+                      - generic [ref=e137]:
+                        - img "My Device" [ref=e139]
+                        - generic [ref=e150]:
+                          - generic [ref=e151]: My Devices & Plans
+                          - generic [ref=e152]: Manage your devices and plans
+                  - listitem [ref=e153]:
+                    - link "My Services My Service Requests Manage complaints, feedback, service requests" [ref=e154]:
+                      - /url: /my-account/service-requests
+                      - generic [ref=e155]:
+                        - img "My Services" [ref=e157]
+                        - generic [ref=e171]:
+                          - generic [ref=e172]: My Service Requests
+                          - generic [ref=e173]: Manage complaints, feedback, service requests
+                  - listitem [ref=e174]:
+                    - button "2 Login" [ref=e175]:
+                      - generic [ref=e176]: "2"
+                      - link "Login" [ref=e177]:
+                        - /url: javascript:void(0)
+            - link "0" [ref=e179] [cursor=pointer]:
+              - /url: /cart
+              - img [ref=e181]
+              - generic [ref=e184]: "0"
+      - generic [ref=e190]:
+        - generic:
+          - generic: + + + + + w
+      - list [ref=e194]:
+        - listitem [ref=e195]:
+          - generic [ref=e196]:
+            - paragraph [ref=e197]: Connect with us
+            - generic [ref=e200]:
+              - button "A" [ref=e201] [cursor=pointer]:
+                - generic [ref=e202]: A
+              - textbox "Enter Email ID" [ref=e203]
+            - list [ref=e204]:
+              - listitem [ref=e205]:
+                - link "O" [ref=e207] [cursor=pointer]:
+                  - /url: https://www.youtube.com/user/CromaRetail
+              - listitem [ref=e208]:
+                - link "d" [ref=e210] [cursor=pointer]:
+                  - /url: https://www.facebook.com/CromaRetail/
+              - listitem [ref=e211]:
+                - link [ref=e213] [cursor=pointer]:
+                  - /url: https://www.instagram.com/croma.retail/
+              - listitem [ref=e214]:
+                - link "h" [ref=e216] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/infiniti-retail-limited-croma---a-tata-enterprise
+              - listitem [ref=e217]:
+                - link "" [ref=e219] [cursor=pointer]:
+                  - /url: https://twitter.com/cromaretail?s=11
+            - generic [ref=e220]: © Copyright 2026 Croma. All rights reserved
+        - listitem [ref=e221]:
+          - generic [ref=e222]:
+            - paragraph [ref=e223]: Useful Links b
+            - list [ref=e224]:
+              - listitem [ref=e225]:
+                - link "About Croma" [ref=e226] [cursor=pointer]:
+                  - /url: /about-croma
+              - listitem [ref=e227]:
+                - link "Help And Support" [ref=e228] [cursor=pointer]:
+                  - /url: /helpAndSupport
+              - listitem [ref=e229]:
+                - link "FAQs" [ref=e230] [cursor=pointer]:
+                  - /url: /faq
+              - listitem [ref=e231]:
+                - link "Buying Guide" [ref=e232] [cursor=pointer]:
+                  - /url: /lp-buying-guide
+              - listitem [ref=e233]:
+                - link "Return Policy" [ref=e234] [cursor=pointer]:
+                  - /url: /cancellation-and-return
+              - listitem [ref=e235]:
+                - link "B2B Orders" [ref=e236] [cursor=pointer]:
+                  - /url: /bulk-order-and-gift-card-enquiry?cm_source=HPBulkEnquiry&cm_medium=Footer&cm_campaign=BulkEnquir
+              - listitem [ref=e237]:
+                - link "Store Locator" [ref=e238] [cursor=pointer]:
+                  - /url: /store?location=default
+              - listitem [ref=e239]:
+                - link "E-Waste" [ref=e240] [cursor=pointer]:
+                  - /url: /lp-croma-e-waste
+              - listitem [ref=e241]:
+                - link "Franchise Opportunity" [ref=e242] [cursor=pointer]:
+                  - /url: /franchise-opportunity
+              - listitem [ref=e243]:
+                - link "Site Map" [ref=e244] [cursor=pointer]:
+                  - /url: /site-map
+              - listitem [ref=e245]:
+                - link "Careers At Croma" [ref=e246] [cursor=pointer]:
+                  - /url: /careers-at-croma
+              - listitem [ref=e247]:
+                - link "Terms of Use" [ref=e248] [cursor=pointer]:
+                  - /url: /terms-of-use
+              - listitem [ref=e249]:
+                - link "Disclaimer" [ref=e250] [cursor=pointer]:
+                  - /url: /disclaimer
+              - listitem [ref=e251]:
+                - link "Privacy Policy" [ref=e252] [cursor=pointer]:
+                  - /url: /privacy-policy
+              - listitem [ref=e253]:
+                - link "Unboxed" [ref=e254] [cursor=pointer]:
+                  - /url: /unboxed
+              - listitem [ref=e255]:
+                - link "Gift Card" [ref=e256] [cursor=pointer]:
+                  - /url: /giftcard
+              - listitem [ref=e257]:
+                - link "Croma E-Star" [ref=e258] [cursor=pointer]:
+                  - /url: /e-star-program
+        - listitem [ref=e259]:
+          - generic [ref=e260]:
+            - paragraph [ref=e261]: Products b
+            - list [ref=e262]:
+              - listitem [ref=e263]:
+                - link "Televisions & Accessories" [ref=e264] [cursor=pointer]:
+                  - /url: /televisions-accessories/c/997
+              - listitem [ref=e265]:
+                - link "Home Appliances" [ref=e266] [cursor=pointer]:
+                  - /url: /home-appliances/c/5
+              - listitem [ref=e267]:
+                - link "Phones & Wearables" [ref=e268] [cursor=pointer]:
+                  - /url: /phones-wearables/c/1
+              - listitem [ref=e269]:
+                - link "Computers & Tablets" [ref=e270] [cursor=pointer]:
+                  - /url: /computers-tablets/c/3
+              - listitem [ref=e271]:
+                - link "Kitchen Appliances" [ref=e272] [cursor=pointer]:
+                  - /url: /kitchen-appliances/c/864
+              - listitem [ref=e273]:
+                - link "Audio & Video" [ref=e274] [cursor=pointer]:
+                  - /url: /audio-video/c/292
+              - listitem [ref=e275]:
+                - link "Health & Fitness" [ref=e276] [cursor=pointer]:
+                  - /url: /health-fitness/c/11
+              - listitem [ref=e277]:
+                - link "Grooming & Personal Care" [ref=e278] [cursor=pointer]:
+                  - /url: /grooming-wellness/c/1021
+              - listitem [ref=e279]:
+                - link "Cameras & Accessories" [ref=e280] [cursor=pointer]:
+                  - /url: /cameras-accessories/c/2
+              - listitem [ref=e281]:
+                - link "Smart Devices" [ref=e282] [cursor=pointer]:
+                  - /url: /smart-devices/c/3002
+              - listitem [ref=e283]:
+                - link "Gaming" [ref=e284] [cursor=pointer]:
+                  - /url: /gaming/c/7
+              - listitem [ref=e285]:
+                - link "Accessories" [ref=e286] [cursor=pointer]:
+                  - /url: /accessories/c/8
+              - listitem [ref=e287]:
+                - link "Top Brands" [ref=e288] [cursor=pointer]:
+                  - /url: /searchB?q=Top%20Brands%3Arelevance&text=Top%20Brands
+  - text: ;

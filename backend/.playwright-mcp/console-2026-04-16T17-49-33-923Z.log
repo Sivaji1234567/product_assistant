@@ -1,0 +1,58 @@
+[    2586ms] Unexpected token '<'
+[    3292ms] [LOG] ############ inside initStorage ############## @ https://www.reliancedigital.in/public/clickstream.js:9
+[    3294ms] [LOG] ########### inside response interceptor ############# @ https://www.reliancedigital.in/public/clickstream.js:9
+[    4562ms] [LOG] GA4 Client ID: 361505150.1776361778 @ https://www.reliancedigital.in/search?q=iphone+15+128gb:relevance:261
+[    4563ms] [LOG] GA4 Session ID: 1776361778 @ https://www.reliancedigital.in/search?q=iphone+15+128gb:relevance:268
+[    5531ms] [WARNING] Could not set dynamic CDN path @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[    5634ms] [LOG] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at n._publish (https://www.reliancedigital.in/search?q=iphone+15+128gb:relevance:220:3267)
+    at d.HYDRATE_APP_META (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:18:12535)
+    at Array.<anonymous> (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:1:49521)
+    at d.dispatch (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:7:1047)
+    at d.dispatch (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:1:46752)
+    at Module.<anonymous> (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:29:39270)
+    at a (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:1:1551)
+    at https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:1:5102
+    at https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:1:5166 @ https://www.reliancedigital.in/search?q=iphone+15+128gb:relevance:219
+[    6001ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.reliancedigital.in/search?q=iphone+15+128gb:relevance:0
+[    6186ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.reliancedigital.in/api/service/application/user/authentication/v1.0/session:0
+[    6281ms] [LOG] mounted @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[    6288ms] [LOG] not webview @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[    6288ms] [LOG] 645a057875d8c4882b096f7e context in header @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[    6291ms] [LOG] this.$route?.meta?.available_page_slug not-found-page @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[    6364ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://platform.jioretailer.com') does not match the recipient window's origin ('https://www.reliancedigital.in'). @ https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:28
+[    6680ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.reliancedigital.in/api/service/application/theme/v1.0/645a0579fb224468a9213d50/not-found-page?company=1&filters=true&section_preview_hash=:0
+[    6745ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.reliancedigital.in/ext/raven-api/resq/rcp-list?page_no=1&page_size=10:0
+[    6827ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.reliancedigital.in/search?q=iphone%2015%20128gb%3Arelevance:0
+[    7453ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1433
+[   32461ms] Unexpected token '<'
+[   32505ms] [WARNING] Could not set dynamic CDN path @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[   32587ms] [LOG] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at n._publish (https://www.reliancedigital.in/sections/mobiles:220:3267)
+    at d.HYDRATE_APP_META (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:18:12535)
+    at Array.<anonymous> (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:1:49521)
+    at d.dispatch (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:7:1047)
+    at d.dispatch (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:1:46752)
+    at Module.<anonymous> (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:29:39270)
+    at a (https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:1:1551)
+    at https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:1:5102
+    at https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:1:5166 @ https://www.reliancedigital.in/sections/mobiles:219
+[   32630ms] [LOG] ############ inside initStorage ############## @ https://www.reliancedigital.in/public/clickstream.js:9
+[   32630ms] [LOG] ########### inside response interceptor ############# @ https://www.reliancedigital.in/public/clickstream.js:9
+[   32771ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.reliancedigital.in/api/service/application/user/authentication/v1.0/session:0
+[   32823ms] [LOG] mounted @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[   32827ms] [LOG] not webview @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[   32833ms] [LOG] CleverTap [1776361806754]: CleverTap info: 545: Null value for key 'User_ID' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[   32835ms] [LOG] 645a057875d8c4882b096f7e context in header @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[   32838ms] [LOG] this.$route?.meta?.available_page_slug section-page @ https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/organization/60b75618d9b9b8ffabe828a3/theme/assets/stkmh6Xko_themeBundle.umd.min.js:16
+[   32914ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://platform.jioretailer.com') does not match the recipient window's origin ('https://www.reliancedigital.in'). @ https://www.reliancedigital.in/public/app.2c252a5cbc9fb56f3eba.js:28
+[   33025ms] [LOG] GA4 Client ID: 361505150.1776361778 @ https://www.reliancedigital.in/sections/mobiles:261
+[   33026ms] [LOG] GA4 Session ID: 1776361778 @ https://www.reliancedigital.in/sections/mobiles:268
+[   33084ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.reliancedigital.in/ext/raven-api/resq/rcp-list?page_no=1&page_size=10:0
+[   33092ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyCimWLcCkTc03jZrTE6TxfTH0PauR2Keps&libraries=places&callback=googleMapsAutoCompleteAPILoad:1433
+[   33776ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.reliancedigital.in/sections/mobiles:0
+[   34167ms] [LOG] CleverTap [1776361808089]: CleverTap info: 545: Null value for key 'User_ID' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[   34167ms] [LOG] CleverTap [1776361808089]: CleverTap info: 545: Null value for key 'section_name' was removed @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:14
+[   37166ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://www.googletagmanager.com/a?v=3&t=l&pid=1706011119&rv=64f0&tag_exp=0~115938466~115938469~116363097~117266401&u=AAAAAAAIIAQAACAg&ut=Ag&h=Ag&gtm=45je64f0v876586341za20gzb79368712zd79368712&cl=3.44.4&ccid=76586341&cid=G-1DPVQ3BW9G&l=L328.S33.B29.E3877.I423.TC23.HTC0.F376.C8~gtm.init_consent.S1.V0.E73.TS5ogtdefercustomevents.TI109.TE0~gtm.init.S0.E75.TS5ogtreferralexclusion.TI106.TE1.TS5ogtsessiontimeout.TI108.TE0.TS5ogt1pdatav2.TI111.TE0.TS5ccdgafirst.TI129.TE0.TS5setproductsettings.TI128.TE0.TS5ogtgooglesignals.TI127.TE0.TS5ccdgaregscope.TI126.TE0.TS5ccdaddecs.TI125.TE0.TS5ccdemdownload.TI124.TE0.TS5ccdemoutboundclick.TI123.TE0.TS5ccdemscroll.TI122.TE0.TS5ccdemsitesearch.TI121.TE0.TS5ccdemvideo.TI120.TE0.TS5ccdconversionmarking.TI119.TE0.TS5ogteventcreate.TI118.TE0.TS5ccdadd1pdata.TI115.TE0.TS5ccdautoredact.TI114.TE0.TS5ogteventcreate.TI117.TE64.TS5ogteventcreate.TI116.TE64.TS5ccdgaadslink.TI113.TE64.TS5ccdgalast.TI112.TE64~gtm.js.S0.V0.E69.TS5gct.TI104.TE0~gtm.dom.S0.V0.E44~*.S0.V0.E44~*.S0.V0.E43~*.S0.V0.E17~*.S0.V0.E40~*.S0.E27~*.S0.E26~gtm.load.S0.V0.E8~gtm.scrollDepth.S0.V0~gtm.scrollDepth.S0.V0~gtm.scrollDepth.S0.V0~gtm.scrollDepth.S0~AWCT1789~GA581.587.630.786.799.1794:0

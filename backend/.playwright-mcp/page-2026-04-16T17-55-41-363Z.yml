@@ -1,0 +1,1045 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link "navigate to Orders" [ref=e10] [cursor=pointer]:
+          - /url: https://www.reliancedigital.in/c/order/tracking
+          - text: Orders
+        - link "navigate to Contact us" [ref=e12] [cursor=pointer]:
+          - /url: https://www.reliancedigital.in/c/contact-us
+          - text: Contact us
+        - link "navigate to Resource Center" [ref=e14] [cursor=pointer]:
+          - /url: https://www.reliancedigital.in/c/resource-center
+          - text: Resource Center
+        - link "navigate to Find a store" [ref=e16] [cursor=pointer]:
+          - /url: https://www.reliancedigital.in/c/store-locator
+          - text: Find a store
+      - generic [ref=e20]:
+        - link "reliance digital logo" [ref=e22] [cursor=pointer]:
+          - /url: /
+          - img "Reliance Digital" [ref=e24]
+        - generic [ref=e27] [cursor=pointer]:
+          - generic [ref=e28]:
+            - textbox "Search Products & Brands" [active] [ref=e31]: iphone 15 128gb
+            - button "clear search" [ref=e1302]
+          - list [ref=e1305]:
+            - listitem [ref=e1306]:
+              - link "Apple" [ref=e1308]:
+                - /url: /products?q=iphone%2015%20128gb&brand=apple&search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img [ref=e1309]
+                - generic [ref=e1312]: Apple (brand)
+                - img [ref=e1314]
+            - listitem [ref=e1316]:
+              - link "iphone 15 128gb in Smart Phones" [ref=e1318]:
+                - /url: /products?q=iphone%2015%20128gb&category=smart-phones&search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img [ref=e1319]
+                - generic [ref=e1322]: iphone 15 128gb in Smart Phones
+                - img [ref=e1324]
+            - listitem [ref=e1326]:
+              - generic [ref=e1328]: Products
+              - link "Go to Apple iPhone 15 128GB Pink" [ref=e1330]:
+                - /url: /product/apple-iphone-15-128gb-pink-lmiqm5-7533782?search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img "Apple iPhone 15 128GB Pink" [ref=e1332]
+                - generic [ref=e1334]: Apple iPhone 15 128GB Pink
+                - img [ref=e1336]
+            - listitem [ref=e1338]:
+              - link "Go to Apple iPhone 15 128 GB Green" [ref=e1340]:
+                - /url: /product/apple-iphone-15-128gb-green-lmiqm7-7533788?search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img "Apple iPhone 15 128 GB Green" [ref=e1342]
+                - generic [ref=e1344]: Apple iPhone 15 128 GB Green
+                - img [ref=e1346]
+            - listitem [ref=e1348]:
+              - link "Go to Apple iPhone 15 Plus 128 GB, Black" [ref=e1350]:
+                - /url: /product/apple-iphone-15-plus-128-gb-black-lmj1i8-7533800?search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img "Apple iPhone 15 Plus 128 GB, Black" [ref=e1352]
+                - generic [ref=e1354]: Apple iPhone 15 Plus 128 GB, Black
+                - img [ref=e1356]
+            - listitem [ref=e1358]:
+              - link "Go to Apple iPhone 15 128GB Yellow" [ref=e1360]:
+                - /url: /product/apple-iphone-15-128gb-yellow-lmiqm5-7533787?search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img "Apple iPhone 15 128GB Yellow" [ref=e1362]
+                - generic [ref=e1364]: Apple iPhone 15 128GB Yellow
+                - img [ref=e1366]
+            - listitem [ref=e1368]:
+              - link "Go to Apple iPhone 15 Pro 128 GB, Black Titanium" [ref=e1370]:
+                - /url: /product/apple-iphone-15-pro-128-gb-black-titanium-lmj3hp-7533801?search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img "Apple iPhone 15 Pro 128 GB, Black Titanium" [ref=e1372]
+                - generic [ref=e1374]: Apple iPhone 15 Pro 128 GB, Black Titanium
+                - img [ref=e1376]
+            - listitem [ref=e1378]:
+              - link "Go to Apple iPhone 15 Plus 128 GB, Yellow" [ref=e1380]:
+                - /url: /product/apple-iphone-15-plus-128-gb-yellow-lmj3id-7533824?search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img "Apple iPhone 15 Plus 128 GB, Yellow" [ref=e1382]
+                - generic [ref=e1384]: Apple iPhone 15 Plus 128 GB, Yellow
+                - img [ref=e1386]
+            - listitem [ref=e1388]:
+              - link "Go to Apple iPhone 15 Plus 128 GB, Green" [ref=e1390]:
+                - /url: /product/apple-iphone-15-plus-128-gb-green-lmj3id-7533828?search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img "Apple iPhone 15 Plus 128 GB, Green" [ref=e1392]
+                - generic [ref=e1394]: Apple iPhone 15 Plus 128 GB, Green
+                - img [ref=e1396]
+            - listitem [ref=e1398]:
+              - link "Go to Apple iPhone 15 Pro 128 GB, White Titanium" [ref=e1400]:
+                - /url: /product/apple-iphone-15-pro-128-gb-white-titanium-lmj3hr-7533802?search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img "Apple iPhone 15 Pro 128 GB, White Titanium" [ref=e1402]
+                - generic [ref=e1404]: Apple iPhone 15 Pro 128 GB, White Titanium
+                - img [ref=e1406]
+            - listitem [ref=e1408]:
+              - link "Go to Apple iPhone 15 128GB Blue" [ref=e1410]:
+                - /url: /product/apple-iphone-15-128gb-blue-lmiqm7-7533785?search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img "Apple iPhone 15 128GB Blue" [ref=e1412]
+                - generic [ref=e1414]: Apple iPhone 15 128GB Blue
+                - img [ref=e1416]
+            - listitem [ref=e1418]:
+              - link "Go to Apple iPhone 15 Pro 128 GB, Blue Titanium" [ref=e1420]:
+                - /url: /product/apple-iphone-15-pro-128-gb-blue-titanium-lmj3hs-7533806?search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img "Apple iPhone 15 Pro 128 GB, Blue Titanium" [ref=e1422]
+                - generic [ref=e1424]: Apple iPhone 15 Pro 128 GB, Blue Titanium
+                - img [ref=e1426]
+            - listitem [ref=e1428]:
+              - link "Go to Apple iPhone 15 128GB Black" [ref=e1430]:
+                - /url: /product/apple-iphone-15-128gb-black-lmiqm4-7533780?search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img "Apple iPhone 15 128GB Black" [ref=e1432]
+                - generic [ref=e1434]: Apple iPhone 15 128GB Black
+                - img [ref=e1436]
+            - listitem [ref=e1438]:
+              - link "Go to Apple iPhone 15 Plus 128 GB, Blue" [ref=e1440]:
+                - /url: /product/apple-iphone-15-plus-128-gb-blue-lmj3i3-7533815?search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img "Apple iPhone 15 Plus 128 GB, Blue" [ref=e1442]
+                - generic [ref=e1444]: Apple iPhone 15 Plus 128 GB, Blue
+                - img [ref=e1446]
+            - listitem [ref=e1448]:
+              - link "Go to Apple iPhone 15 Plus 128 GB, Pink" [ref=e1450]:
+                - /url: /product/apple-iphone-15-plus-128-gb-pink-lmj1i2-7533799?search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img "Apple iPhone 15 Plus 128 GB, Pink" [ref=e1452]
+                - generic [ref=e1454]: Apple iPhone 15 Plus 128 GB, Pink
+                - img [ref=e1456]
+            - listitem [ref=e1458]:
+              - link "Go to Apple iPhone 15 Pro 128 GB, Natural Titanium" [ref=e1460]:
+                - /url: /product/apple-iphone-15-pro-128-gb-natural-titanium-lmj3hr-7533803?search_term=iphone%2015%20128gb&internal_source=search_prompt
+                - img "Apple iPhone 15 Pro 128 GB, Natural Titanium" [ref=e1462]
+                - generic [ref=e1464]: Apple iPhone 15 Pro 128 GB, Natural Titanium
+                - img [ref=e1466]
+        - generic [ref=e33]:
+          - button "Set Pincode" [ref=e39]:
+            - generic [ref=e40]:
+              - img [ref=e42]
+              - generic [ref=e44]: 400001 - Mumbai
+            - img [ref=e47] [cursor=pointer]
+          - link "goto cart" [ref=e49] [cursor=pointer]:
+            - /url: /cart/bag/
+            - img [ref=e50]
+            - generic [ref=e52]: Cart
+          - button "Wishlist" [ref=e54] [cursor=pointer]:
+            - img [ref=e55]
+            - generic [ref=e57]: Wishlist
+          - generic [ref=e60] [cursor=pointer]:
+            - button "Account Details" [ref=e61]:
+              - img "Account Details" [ref=e62]
+            - generic [ref=e64]: Login
+      - generic [ref=e70]:
+        - button "left arrow" [ref=e71] [cursor=pointer]:
+          - img "left arrow" [ref=e72]
+        - generic [ref=e73]:
+          - link "open Air Conditioners" [ref=e77] [cursor=pointer]:
+            - /url: /sections/air-conditioners
+            - img "navIcon" [ref=e80]
+            - generic [ref=e81]: Air Conditioners
+          - link "open Televisions" [ref=e85] [cursor=pointer]:
+            - /url: /sections/televisions
+            - img "navIcon" [ref=e88]
+            - generic [ref=e89]: Televisions
+          - link "open Mobiles" [ref=e93] [cursor=pointer]:
+            - /url: /sections/mobiles
+            - img "navIcon" [ref=e96]
+            - generic [ref=e97]: Mobiles
+          - link "open Air Coolers" [ref=e101] [cursor=pointer]:
+            - /url: /sections/air-coolers
+            - img "navIcon" [ref=e104]
+            - generic [ref=e105]: Air Coolers
+          - link "open Audio" [ref=e109] [cursor=pointer]:
+            - /url: /sections/audio
+            - img "navIcon" [ref=e112]
+            - generic [ref=e113]: Audio
+          - link "open Tablets" [ref=e117] [cursor=pointer]:
+            - /url: /sections/tablets
+            - img "navIcon" [ref=e120]
+            - generic [ref=e121]: Tablets
+          - link "open Refrigerators" [ref=e125] [cursor=pointer]:
+            - /url: /sections/refrigerators
+            - img "navIcon" [ref=e128]
+            - generic [ref=e129]: Refrigerators
+          - link "open Laptops" [ref=e133] [cursor=pointer]:
+            - /url: /sections/laptops
+            - img "navIcon" [ref=e136]
+            - generic [ref=e137]: Laptops
+          - link "open Apple Store" [ref=e141] [cursor=pointer]:
+            - /url: /sections/apple-store
+            - img "navIcon" [ref=e144]
+            - generic [ref=e145]: Apple Store
+          - link "open Smart Wearables" [ref=e149] [cursor=pointer]:
+            - /url: /sections/smart-watches
+            - img "navIcon" [ref=e152]
+            - generic [ref=e153]: Smart Wearables
+          - link "open Small Appliances" [ref=e157] [cursor=pointer]:
+            - /url: /sections/small-domestic-appliances
+            - img "navIcon" [ref=e160]
+            - generic [ref=e161]: Small Appliances
+          - link "open Washing Machines" [ref=e165] [cursor=pointer]:
+            - /url: /sections/washing-machines
+            - img "navIcon" [ref=e168]
+            - generic [ref=e169]: Washing Machines
+          - link "open All Categories" [ref=e173] [cursor=pointer]:
+            - /url: /c/all-categories
+            - img "navIcon" [ref=e176]
+            - generic [ref=e177]: All Categories
+            - img [ref=e179]
+        - button "right arrow" [ref=e181] [cursor=pointer]:
+          - img "right arrow" [ref=e182]
+    - generic [ref=e188]:
+      - link "Go to Image" [ref=e201] [cursor=pointer]:
+        - /url: https://www.reliancedigital.in/sections/digital-discount-days-sale/?internal_source=hp&internal_medium=static&internal_campaign=digital-discount-days
+        - img "Banner of Image" [ref=e204]
+      - generic [ref=e211]:
+        - generic [ref=e213]:
+          - link "Go to Image" [ref=e215] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/sections/digital-mid-night-sale/?internal_source=hp&internal_medium=hpmc&internal_campaign=mns
+            - img "Banner of Image" [ref=e218]
+          - link "Go to Image" [ref=e220] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/sections/digital-chill-fest/?internal_source=hp&internal_medium=static&internal_campaign=digital-chill-fest
+            - img "Banner of Image" [ref=e223]
+          - link "Go to Image" [ref=e1274] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/collection/google-pixel-10a/?internal_source=hp&internal_medium=hpmc&internal_campaign=google-pixel-10&is_available=true
+            - img "Banner of Image" [ref=e1277]
+          - link "Go to Image" [ref=e1282] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/collection/macbook-neo/?internal_source=hp&internal_medium=hpmc&internal_campaign=macbook-neo&is_available=true
+            - img "Banner of Image" [ref=e1285]
+          - link "Go to Image" [ref=e1286] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/collection/vivo-v70fe/?internal_source=hp&internal_medium=hpmc&internal_campaign=vivo-v70fe&is_available=true
+            - img "Banner of Image" [ref=e1289]
+          - link "Go to Image" [ref=e1290] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/collection/apple-watch-se3/?internal_source=clp&internal_medium=main-carousel&internal_campaign=apple-watch-se3&page_no=1&page_size=12&page_type=number&is_available=true
+            - img "Banner of Image" [ref=e1293]
+          - link "Go to Image" [ref=e1468] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/collection/sony-headphones/?is_available=true&sort_on=price_dsc&internal_source=hp&internal_medium=hpmc&internal_campaign=sony-audio
+            - img "Banner of Image" [ref=e1471]
+          - link "Go to Image" [ref=e1472] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/collection/ikonic-stylers-and-hair-dryers/?internal_source=hp&internal_medium=hpmc&internal_campaign=ikonic-stylers-hair-dryers&is_available=true
+            - img "Banner of Image" [ref=e1475]
+        - generic [ref=e230]:
+          - button "banner 1" [ref=e231] [cursor=pointer]
+          - button "banner 2" [ref=e232] [cursor=pointer]
+          - button "banner 3" [ref=e233] [cursor=pointer]
+          - button "banner 4" [ref=e234] [cursor=pointer]
+          - button "banner 5" [ref=e235] [cursor=pointer]
+          - button "banner 6" [ref=e236] [cursor=pointer]
+          - button "banner 7" [ref=e237] [cursor=pointer]
+          - button "banner 8" [ref=e238] [cursor=pointer]
+      - generic [ref=e245]:
+        - generic [ref=e246]:
+          - generic [ref=e247]:
+            - generic "Upgrade to Summer Comfort | ACs Starting from Rs. 23119*" [ref=e248]
+            - generic [ref=e249]: 7.5% Off On Leading Credit Cards
+          - link "View all" [ref=e250] [cursor=pointer]:
+            - /url: /collection/upgrade-to-summer-comfort-acs/?internal_source=hp&internal_medium=product-carousal&internal_campaign=air-conditioners&is_available=true
+            - generic [ref=e251]: View All
+            - img [ref=e253]
+        - generic [ref=e257] [cursor=pointer]:
+          - generic [ref=e258]:
+            - link "TCL 1 Ton 3 Star 5 in 1 Convertible, Invertor Split AC, White, 12EV3F2, 100% Grooved Copper, 4 way Swing, Turbo cool ₹24,990.00 49% OFF MRP ₹48,991.00" [ref=e259]:
+              - /url: /product/tcl-1-ton-3-star-5-in-1-convertible-invertor-split-ac-white-12ev3f2-100-grooved-copper-4-way-swing-turbo-cool-mm93i6-9965488
+              - img [ref=e261]
+              - heading "TCL 1 Ton 3 Star 5 in 1 Convertible, Invertor Split AC, White, 12EV3F2, 100% Grooved Copper, 4 way Swing, Turbo cool" [level=5] [ref=e262]
+              - generic [ref=e263]:
+                - generic [ref=e264]: ₹24,990.00
+                - generic [ref=e265]: 49% OFF
+              - paragraph [ref=e266]: MRP ₹48,991.00
+            - generic [ref=e267]:
+              - generic [ref=e268]: 7.5% Off CC EMI*
+              - img "Wishlist this product" [ref=e272]
+          - generic [ref=e274]:
+            - link "Voltas 1.5 Ton 3 Star Inverter Split Air Conditioner, Vertis Regent Magnum ₹32,990.00 49% OFF MRP ₹64,990.00" [ref=e275]:
+              - /url: /product/jss-voltas-sac-15t-3s-inv-ver-regnt-mag-mmm29c-9982578
+              - img [ref=e277]
+              - heading "Voltas 1.5 Ton 3 Star Inverter Split Air Conditioner, Vertis Regent Magnum" [level=5] [ref=e278]
+              - generic [ref=e279]:
+                - generic [ref=e280]: ₹32,990.00
+                - generic [ref=e281]: 49% OFF
+              - paragraph [ref=e282]: MRP ₹64,990.00
+            - generic [ref=e283]:
+              - generic [ref=e284]: 7.5% Off CC EMI*
+              - img "Wishlist this product" [ref=e288]
+          - generic [ref=e290]:
+            - link "Daikin Premium 1.5 Ton 3 Star Inverter Split AC (Copper Condenser, ATKL50XV, White) ₹37,490.00 33% OFF MRP ₹56,100.00" [ref=e291]:
+              - /url: /product/daikin-premium-15-ton-3-star-inverter-split-ac-copper-condenser-atkl50xv-white-mn7hfo-9993853
+              - img [ref=e293]
+              - heading "Daikin Premium 1.5 Ton 3 Star Inverter Split AC (Copper Condenser, ATKL50XV, White)" [level=5] [ref=e294]
+              - generic [ref=e295]:
+                - generic [ref=e296]: ₹37,490.00
+                - generic [ref=e297]: 33% OFF
+              - paragraph [ref=e298]: MRP ₹56,100.00
+            - generic [ref=e299]:
+              - generic [ref=e300]: ₹2000 Off + 7.5% Off CC EMI*
+              - img "Wishlist this product" [ref=e304]
+          - generic [ref=e306]:
+            - link "Samsung 1.5 Ton 5 Star Bespoke AI WindFree Inverter Smart Split AC (2026 Model, WiFi, Energy Saving, Voice Control, Powerful Cooling, Digital Inverter, 4 Way swing, 5 Step Convertible, AR60H18D15W) ₹53,490.00 42% OFF MRP ₹91,990.00" [ref=e307]:
+              - /url: /product/samsung-15-ton-5-star-bespoke-ai-windfree-inverter-split-ac-ar60h18d15w-475-kw-2026-mkzfuh-9792416
+              - img [ref=e309]
+              - heading "Samsung 1.5 Ton 5 Star Bespoke AI WindFree Inverter Smart Split AC (2026 Model, WiFi, Energy Saving, Voice Control, Powerful Cooling, Digital Inverter, 4 Way swing, 5 Step Convertible, AR60H18D15W)" [level=5] [ref=e310]
+              - generic [ref=e311]:
+                - generic [ref=e312]: ₹53,490.00
+                - generic [ref=e313]: 42% OFF
+              - paragraph [ref=e314]: MRP ₹91,990.00
+            - generic [ref=e315]:
+              - generic [ref=e316]: ₹4000 Off + 7.5% Off CC EMI*
+              - img "Wishlist this product" [ref=e320]
+          - generic [ref=e322]:
+            - link "Hitachi STXL 1.5 Ton 3 Star Inverter Split AC, RAS.D318PCD2ST1 ₹37,800.00 43% OFF MRP ₹65,990.00" [ref=e323]:
+              - /url: /product/hitachi-stxl-15-ton-3-star-inverter-split-ac-rasd318pcd2st1-mmm1lp-9982540
+              - img [ref=e325]
+              - heading "Hitachi STXL 1.5 Ton 3 Star Inverter Split AC, RAS.D318PCD2ST1" [level=5] [ref=e326]
+              - generic [ref=e327]:
+                - generic [ref=e328]: ₹37,800.00
+                - generic [ref=e329]: 43% OFF
+              - paragraph [ref=e330]: MRP ₹65,990.00
+            - generic [ref=e331]:
+              - generic [ref=e332]: ₹3000 Off + 7.5% Off CC EMI*
+              - img "Wishlist this product" [ref=e336]
+          - generic [ref=e338]:
+            - link "Godrej Split Air Conditioner 1.5 Ton 3 Star Inverter 18Y3TG WA, 5 in 1 Convertible, AI Technology, 2 Way Swing, 52 C Heavy Duty Cooling ₹33,490.00 23% OFF MRP ₹43,300.00" [ref=e339]:
+              - /url: /product/godrej-split-air-conditioner-15-ton-3-star-inverter-18y3tg-wa-5-in-1-convertible-ai-technology-4-way-swing-52-c-heavy-duty-cooling-mnehfp-9999961
+              - img [ref=e341]
+              - heading "Godrej Split Air Conditioner 1.5 Ton 3 Star Inverter 18Y3TG WA, 5 in 1 Convertible, AI Technology, 2 Way Swing, 52 C Heavy Duty Cooling" [level=5] [ref=e342]
+              - generic [ref=e343]:
+                - generic [ref=e344]: ₹33,490.00
+                - generic [ref=e345]: 23% OFF
+              - paragraph [ref=e346]: MRP ₹43,300.00
+            - generic [ref=e347]:
+              - generic [ref=e348]: ₹3000 Off + 7.5% Off CC EMI*
+              - img "Wishlist this product" [ref=e352]
+          - generic [ref=e354]:
+            - link "TCL 1.5 Ton 3 Star Split Invertor Air Conditioner, AR18EV3, White (7 in 1 Convertible, 100% Grooved Copper, 4 Way Swing, Turbo Cool, 2026 Launch) ₹26,990.00 47% OFF MRP ₹50,991.00" [ref=e355]:
+              - /url: /product/tcl-15-ton-3-star-split-invertor-air-conditioner-ar18ev3-white-7-in-1-convertible-100-grooved-copper-4-way-swing-turbo-cool-2026-launch-ml0soj-9860462
+              - img [ref=e357]
+              - heading "TCL 1.5 Ton 3 Star Split Invertor Air Conditioner, AR18EV3, White (7 in 1 Convertible, 100% Grooved Copper, 4 Way Swing, Turbo Cool, 2026 Launch)" [level=5] [ref=e358]
+              - generic [ref=e359]:
+                - generic [ref=e360]: ₹26,990.00
+                - generic [ref=e361]: 47% OFF
+              - paragraph [ref=e362]: MRP ₹50,991.00
+            - generic [ref=e363]:
+              - generic [ref=e364]: 7.5% Off ICICI CC EMI*
+              - img "Wishlist this product" [ref=e368]
+          - generic [ref=e370]:
+            - link "Carrier 1.5 Ton 3 Star Inverter Split Air Conditioner, Xcel Edge GXI, CAI18CE3R36F0 ₹37,490.00 43% OFF MRP ₹65,500.00" [ref=e371]:
+              - /url: /product/carrier-15-ton-3-star-inverter-split-air-conditioner-xcel-edge-gxi-cai18ce3r36f0-mne3jv-9999825
+              - img [ref=e373]
+              - heading "Carrier 1.5 Ton 3 Star Inverter Split Air Conditioner, Xcel Edge GXI, CAI18CE3R36F0" [level=5] [ref=e374]
+              - generic [ref=e375]:
+                - generic [ref=e376]: ₹37,490.00
+                - generic [ref=e377]: 43% OFF
+              - paragraph [ref=e378]: MRP ₹65,500.00
+            - generic [ref=e379]:
+              - generic [ref=e380]: ₹6000 Off + 7.5% Off CC EMI*
+              - img "Wishlist this product" [ref=e384]
+          - generic [ref=e386]:
+            - link "General 1.5 Ton 3 Star Inverter Split AC, ASGG18CPAB-B ₹46,990.00 8% OFF MRP ₹51,200.00" [ref=e387]:
+              - /url: /product/dummy-general-split-ac-15t-3s-invasgg18cpab-m8sp4y-9046030
+              - img [ref=e389]
+              - heading "General 1.5 Ton 3 Star Inverter Split AC, ASGG18CPAB-B" [level=5] [ref=e390]
+              - generic [ref=e391]:
+                - generic [ref=e392]: ₹46,990.00
+                - generic [ref=e393]: 8% OFF
+              - paragraph [ref=e394]: MRP ₹51,200.00
+            - generic [ref=e395]:
+              - generic [ref=e396]: ₹5500 Off + 7.5% Off CC EMI*
+              - img "Wishlist this product" [ref=e400]
+          - generic [ref=e402]:
+            - link "LG 1.5 Ton 3 Star Inverter Split Air Conditioner AS-Q18DNXE, 6-in-1 AI Convertible, Diet Mode+, Viraat Mode, 2 Way, Him Clean ₹37,990.00 49% OFF MRP ₹75,190.00" [ref=e403]:
+              - /url: /product/jss-lg-sac-15t-3s-inv-as-q18dnxe-mmm297-9982560
+              - img [ref=e405]
+              - heading "LG 1.5 Ton 3 Star Inverter Split Air Conditioner AS-Q18DNXE, 6-in-1 AI Convertible, Diet Mode+, Viraat Mode, 2 Way, Him Clean" [level=5] [ref=e406]
+              - generic [ref=e407]:
+                - generic [ref=e408]: ₹37,990.00
+                - generic [ref=e409]: 49% OFF
+              - paragraph [ref=e410]: MRP ₹75,190.00
+            - generic [ref=e411]:
+              - generic [ref=e412]: ₹4000 Off + 7.5% Off CC EMI*
+              - img "Wishlist this product" [ref=e416]
+      - generic [ref=e420]:
+        - generic [ref=e421]:
+          - generic [ref=e422]:
+            - generic "Bestselling Televisions" [ref=e423]
+            - generic [ref=e424]: Upto 10% Instant Bank Discount*
+          - link "View all" [ref=e425] [cursor=pointer]:
+            - /url: /collection/instant-discount-best-selling-televisions/?internal_source=hp&internal_medium=product-carousal&internal_campaign=best-selling-televisions&is_available=true
+            - generic [ref=e426]: View All
+            - img [ref=e428]
+        - generic [ref=e432] [cursor=pointer]:
+          - generic [ref=e433]:
+            - link "Samsung 80 cm (32 inches), HD Smart LED TV, Black, UA32H4550FUXXL ₹13,990.00 22% OFF MRP ₹17,900.00 (79)" [ref=e434]:
+              - /url: /product/samsung-80-cm-32-inches-hd-smart-led-tv-black-ua32h4550fuxxl-mcxakn-9285125
+              - img [ref=e436]
+              - heading "Samsung 80 cm (32 inches), HD Smart LED TV, Black, UA32H4550FUXXL" [level=5] [ref=e437]
+              - generic [ref=e438]:
+                - generic [ref=e439]: ₹13,990.00
+                - generic [ref=e440]: 22% OFF
+              - paragraph [ref=e441]: MRP ₹17,900.00
+              - generic [ref=e446]:
+                - list [ref=e447]:
+                  - listitem [ref=e448]:
+                    - img [ref=e449]
+                  - listitem [ref=e451]:
+                    - img [ref=e452]
+                  - listitem [ref=e454]:
+                    - img [ref=e455]
+                  - listitem [ref=e457]:
+                    - img [ref=e458]
+                  - listitem [ref=e460]:
+                    - img [ref=e461]
+                - generic [ref=e463]: (79)
+            - generic [ref=e464]:
+              - generic [ref=e465]: Flat 5% Off on UPI*
+              - img "Wishlist this product" [ref=e469]
+          - generic [ref=e471]:
+            - link "TCL 108 cm (43 inches) Full HD QLED Google TV, 43S5K, Black ₹20,990.00 49% OFF MRP ₹41,390.00 (12)" [ref=e472]:
+              - /url: /product/tcl-108-cm-43-inches-full-hd-qled-google-tv-43s5k-black-mb7wgj-9214436
+              - img [ref=e474]
+              - heading "TCL 108 cm (43 inches) Full HD QLED Google TV, 43S5K, Black" [level=5] [ref=e475]
+              - generic [ref=e476]:
+                - generic [ref=e477]: ₹20,990.00
+                - generic [ref=e478]: 49% OFF
+              - paragraph [ref=e479]: MRP ₹41,390.00
+              - generic [ref=e484]:
+                - list [ref=e485]:
+                  - listitem [ref=e486]:
+                    - img [ref=e487]
+                  - listitem [ref=e489]:
+                    - img [ref=e490]
+                  - listitem [ref=e492]:
+                    - img [ref=e493]
+                  - listitem [ref=e495]:
+                    - img [ref=e496]
+                  - listitem [ref=e498]:
+                    - img [ref=e499]
+                - generic [ref=e501]: (12)
+            - generic [ref=e502]:
+              - generic [ref=e503]: ₹2000 Incart Disc + 10% ICICI/HDFC*
+              - img "Wishlist this product" [ref=e507]
+          - generic [ref=e509]:
+            - link "iFFALCON 101.6 cm (40 inch) 2K FHD Google TV, 40S55, Black ₹12,990.00 59% OFF MRP ₹31,330.00" [ref=e510]:
+              - /url: /product/iffalcon-1016-cm-40-inch-2k-fhd-google-tv-40s55-black-mfp3pp-9426424
+              - img [ref=e512]
+              - heading "iFFALCON 101.6 cm (40 inch) 2K FHD Google TV, 40S55, Black" [level=5] [ref=e513]
+              - generic [ref=e514]:
+                - generic [ref=e515]: ₹12,990.00
+                - generic [ref=e516]: 59% OFF
+              - paragraph [ref=e517]: MRP ₹31,330.00
+            - generic [ref=e518]:
+              - generic [ref=e519]: 7.5% Off on IDFC/YES CC EMI*
+              - img "Wishlist this product" [ref=e523]
+          - generic [ref=e525]:
+            - link "Samsung 108 cm (43 inches), Crystal 4K Ultra HD Smart LED TV, Black, UA43UE81AFULXL ₹27,490.00 30% OFF MRP ₹39,540.00 star-half (17)" [ref=e526]:
+              - /url: /product/samsung-108-cm-43-inches-crystal-4k-ultra-hd-smart-led-tv-black-ua43ue81afulxl-mcxaxq-9285129
+              - img [ref=e528]
+              - heading "Samsung 108 cm (43 inches), Crystal 4K Ultra HD Smart LED TV, Black, UA43UE81AFULXL" [level=5] [ref=e529]
+              - generic [ref=e530]:
+                - generic [ref=e531]: ₹27,490.00
+                - generic [ref=e532]: 30% OFF
+              - paragraph [ref=e533]: MRP ₹39,540.00
+              - generic [ref=e538]:
+                - list [ref=e539]:
+                  - listitem [ref=e540]:
+                    - img [ref=e541]
+                  - listitem [ref=e543]:
+                    - img [ref=e544]
+                  - listitem [ref=e546]:
+                    - img [ref=e547]
+                  - listitem [ref=e549]:
+                    - img "star-half" [ref=e551]
+                  - listitem [ref=e552]:
+                    - img [ref=e553]
+                - generic [ref=e555]: (17)
+            - generic [ref=e556]:
+              - generic [ref=e557]: Flat 5% Off on UPI*
+              - img "Wishlist this product" [ref=e561]
+          - generic [ref=e563]:
+            - link "TCL 139 cm (55 inch) QD-Mini LED Google TV, 55C6K, Black ₹54,990.00 49% OFF MRP ₹1,07,990.00 star-half (23)" [ref=e564]:
+              - /url: /product/tcl-139-cm-55-inch-qd-mini-led-google-tv-55c6k-black-mbtckc-9264310
+              - img [ref=e566]
+              - heading "TCL 139 cm (55 inch) QD-Mini LED Google TV, 55C6K, Black" [level=5] [ref=e567]
+              - generic [ref=e568]:
+                - generic [ref=e569]: ₹54,990.00
+                - generic [ref=e570]: 49% OFF
+              - paragraph [ref=e571]: MRP ₹1,07,990.00
+              - generic [ref=e576]:
+                - list [ref=e577]:
+                  - listitem [ref=e578]:
+                    - img [ref=e579]
+                  - listitem [ref=e581]:
+                    - img [ref=e582]
+                  - listitem [ref=e584]:
+                    - img [ref=e585]
+                  - listitem [ref=e587]:
+                    - img "star-half" [ref=e589]
+                  - listitem [ref=e590]:
+                    - img [ref=e591]
+                - generic [ref=e593]: (23)
+            - generic [ref=e594]:
+              - generic [ref=e595]: ₹7000 Incart Disc + 10% ICICI/HDFC*
+              - img "Wishlist this product" [ref=e599]
+          - generic [ref=e601]:
+            - link "Samsung 108 cm (43 inches), FHD Smart LED TV, Black, UA43F5550FUXXL ₹22,490.00 18% OFF MRP ₹27,560.00 (11)" [ref=e602]:
+              - /url: /product/samsung-108-cm-43-inches-fhd-smart-led-tv-black-ua43f5500fuxxl-mcxakr-9285128
+              - img [ref=e604]
+              - heading "Samsung 108 cm (43 inches), FHD Smart LED TV, Black, UA43F5550FUXXL" [level=5] [ref=e605]
+              - generic [ref=e606]:
+                - generic [ref=e607]: ₹22,490.00
+                - generic [ref=e608]: 18% OFF
+              - paragraph [ref=e609]: MRP ₹27,560.00
+              - generic [ref=e614]:
+                - list [ref=e615]:
+                  - listitem [ref=e616]:
+                    - img [ref=e617]
+                  - listitem [ref=e619]:
+                    - img [ref=e620]
+                  - listitem [ref=e622]:
+                    - img [ref=e623]
+                  - listitem [ref=e625]:
+                    - img [ref=e626]
+                  - listitem [ref=e628]:
+                    - img [ref=e629]
+                - generic [ref=e631]: (11)
+            - generic [ref=e632]:
+              - generic [ref=e633]: Flat 5% Off on UPI*
+              - img "Wishlist this product" [ref=e637]
+          - generic [ref=e639]:
+            - link "Sony 108 cm (43 inch) BRAVIA 2 II 4K Ultra HD Smart LED Google TV, K-43S22BM2 (Black) ₹47,990.00 13% OFF MRP ₹54,900.00" [ref=e640]:
+              - /url: /product/sony-108-cm-43-inch-bravia-2-ii-4k-ultra-hd-smart-led-google-tv-k-43s22bm2-black-mcvyvs-9283249
+              - img [ref=e642]
+              - heading "Sony 108 cm (43 inch) BRAVIA 2 II 4K Ultra HD Smart LED Google TV, K-43S22BM2 (Black)" [level=5] [ref=e643]
+              - generic [ref=e644]:
+                - generic [ref=e645]: ₹47,990.00
+                - generic [ref=e646]: 13% OFF
+              - paragraph [ref=e647]: MRP ₹54,900.00
+            - generic [ref=e648]:
+              - generic [ref=e649]: 5% Upto 1500 ICICI/HDFC*
+              - img "Wishlist this product" [ref=e653]
+          - generic [ref=e655]:
+            - link "Philips 82 cm (32 inch), 2K HD LED Google TV with HDR 10 & HLG, Digital Sound, HDMI 2 & 2 USB, 32PFT6290/94, Black ₹11,990.00 48% OFF MRP ₹22,990.00" [ref=e656]:
+              - /url: /product/philips-82-cm-32-inch-2k-hd-led-google-tv-with-hdr-10-hlg-digital-sound-hdmi-2-2-usb-32pft629094-black-mmkikg-9980857
+              - img [ref=e658]
+              - heading "Philips 82 cm (32 inch), 2K HD LED Google TV with HDR 10 & HLG, Digital Sound, HDMI 2 & 2 USB, 32PFT6290/94, Black" [level=5] [ref=e659]
+              - generic [ref=e660]:
+                - generic [ref=e661]: ₹11,990.00
+                - generic [ref=e662]: 48% OFF
+              - paragraph [ref=e663]: MRP ₹22,990.00
+            - img "Wishlist this product" [ref=e668]
+          - generic [ref=e670]:
+            - link "LG 80 cm (32 inch)HD Ready Smart webOS LED TV,32LR570B6LA ₹14,990.00 29% OFF MRP ₹21,240.00 (53)" [ref=e671]:
+              - /url: /product/lg-80-cm-32-inch-hd-ready-smart-webos-led-tv-32lr570b6la-mcvsa0-9282933
+              - img [ref=e673]
+              - heading "LG 80 cm (32 inch)HD Ready Smart webOS LED TV,32LR570B6LA" [level=5] [ref=e674]
+              - generic [ref=e675]:
+                - generic [ref=e676]: ₹14,990.00
+                - generic [ref=e677]: 29% OFF
+              - paragraph [ref=e678]: MRP ₹21,240.00
+              - generic [ref=e683]:
+                - list [ref=e684]:
+                  - listitem [ref=e685]:
+                    - img [ref=e686]
+                  - listitem [ref=e688]:
+                    - img [ref=e689]
+                  - listitem [ref=e691]:
+                    - img [ref=e692]
+                  - listitem [ref=e694]:
+                    - img [ref=e695]
+                  - listitem [ref=e697]:
+                    - img [ref=e698]
+                - generic [ref=e700]: (53)
+            - generic [ref=e701]:
+              - generic [ref=e702]: 5% Upto 1500 ICICI/HDFC*
+              - img "Wishlist this product" [ref=e706]
+          - generic [ref=e708]:
+            - link "TCL 139 cm (55 inches) 4K UHD Google TV,55P6K, Black ₹33,990.00 52% OFF MRP ₹71,090.00" [ref=e709]:
+              - /url: /product/tcl-139-cm-55-inches-4k-uhd-google-tv55p6k-black-mb7w91-9214433
+              - img [ref=e711]
+              - heading "TCL 139 cm (55 inches) 4K UHD Google TV,55P6K, Black" [level=5] [ref=e712]
+              - generic [ref=e713]:
+                - generic [ref=e714]: ₹33,990.00
+                - generic [ref=e715]: 52% OFF
+              - paragraph [ref=e716]: MRP ₹71,090.00
+            - generic [ref=e717]:
+              - generic [ref=e718]: ₹2000 Incart Disc + 10% ICICI/HDFC*
+              - img "Wishlist this product" [ref=e722]
+      - generic [ref=e726]:
+        - generic "Special Deals" [ref=e729]
+        - generic [ref=e732]:
+          - link "goto banner" [ref=e733] [cursor=pointer]:
+            - /url: /sections/oppo-5g-smartphones/?internal_source=hp&internal_medium=special-deals&internal_campaign=oppo-5g-smartphones
+            - img "banner" [ref=e734]
+          - link "goto banner" [ref=e735] [cursor=pointer]:
+            - /url: /product/jio-dive-jd-003-mobile-virtual-reality-headset-black-lezltn/?internal_source=hp&internal_medium=tile-banner&internal_campaign=jio-dive
+            - img "banner" [ref=e736]
+          - link "goto banner" [ref=e737] [cursor=pointer]:
+            - /url: /product/hp-15-15-fc0704au-standard-laptop-amd-ryzen-5-7520u8-gb512-gb-ssdamd-radeon-graphicswindows-11-homems-office-home-2024full-hd-409-cm-161-inch-natural-silver-mghwk7-9531385/?internal_source=hp&internal_medium=special-deals&internal_campaign=hp-laptops
+            - img "banner" [ref=e738]
+          - link "goto banner" [ref=e739] [cursor=pointer]:
+            - /url: /sections/best-selling-washing-machines/?internal_source=hp&internal_medium=tile-banner&internal_campaign=washing-machine
+            - img "banner" [ref=e740]
+          - link "goto banner" [ref=e741] [cursor=pointer]:
+            - /url: /collection/tcl-tv-260414/?internal_source=hp&internal_medium=tile-banner&internal_campaign=tcl-tv&is_available=true
+            - img "banner" [ref=e742]
+          - link "goto banner" [ref=e743] [cursor=pointer]:
+            - /url: /collection/microwave-ovens/?is_available=true&internal_source=hp&internal_medium=tile-banner&internal_campaign=microwave-oven
+            - img "banner" [ref=e744]
+          - link "goto banner" [ref=e745] [cursor=pointer]:
+            - /url: /sections/mega-offers/?internal_sourcre=hp&internal_medium=tile-banner&internal_campaign=ipl-mega-offers
+            - img "banner" [ref=e746]
+          - link "goto banner" [ref=e747] [cursor=pointer]:
+            - /url: /product/apple-airpods-pro-3rd-gen-with-magsafe-charging-case-active-noise-cancellation-usb-type-c-charging-white-mfdrrm-9379747/?internal_source=hp&internal_medium=special-deals&internal_campaign=airpods-pro-3
+            - img "banner" [ref=e748]
+      - generic [ref=e755]:
+        - generic [ref=e757]:
+          - link "Go to Image" [ref=e759] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/page/idfc-bank-offer-tc
+            - img "Banner of Image" [ref=e762]
+          - link "Go to Image" [ref=e764] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/page/yes-bank-offer-tc-2601
+            - img "Banner of Image" [ref=e767]
+          - link "Go to Image" [ref=e1278] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/page/idbi-bank-offer-tc-2602
+            - img "Banner of Image" [ref=e1281]
+          - link "Go to Image" [ref=e1294] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/page/hsbc-bank-offer-tc-2604
+            - img "Banner of Image" [ref=e1297]
+          - link "Go to Co-Branded" [ref=e1298] [cursor=pointer]:
+            - /url: https://www.reliancedigital.in/c/form-builder?form-slug=sbi-reliance-voucher-notify&internal_source=hp&internal_medium=banner&internal_campaign=sbi-reliance-voucher
+            - img "Banner of Co-Branded" [ref=e1301]
+        - generic [ref=e771]:
+          - button "banner 1" [ref=e772] [cursor=pointer]
+          - button "banner 2" [ref=e773] [cursor=pointer]
+          - button "banner 3" [ref=e774] [cursor=pointer]
+          - button "banner 4" [ref=e775] [cursor=pointer]
+          - button "banner 5" [ref=e776] [cursor=pointer]
+      - generic [ref=e783]:
+        - generic [ref=e784]:
+          - generic [ref=e785]:
+            - generic "Air Coolers and Fans | Upto 50% off" [ref=e786]
+            - generic [ref=e787]: 7% Coupon Discount on Air Coolers | 5% UPI Discount on Fans
+          - link "View all" [ref=e788] [cursor=pointer]:
+            - /url: /collection/air-coolers-and-fans-260415/?internal_source=hp&internal_medium=product-carousel&internal_campaign=air-coolers-and-fans&is_available=true
+            - generic [ref=e789]: View All
+            - img [ref=e791]
+        - generic [ref=e795] [cursor=pointer]:
+          - generic [ref=e796]:
+            - link "Havells BLDC Elio Plus 120 cm (1200 mm) Ceiling Fan, Dusk ₹4,549.00 9% OFF MRP ₹4,990.00" [ref=e797]:
+              - /url: /product/havells-bldc-elio-plus-120-cm-1200-mm-ceiling-fan-dusk-mn7fun-9993822
+              - img [ref=e799]
+              - heading "Havells BLDC Elio Plus 120 cm (1200 mm) Ceiling Fan, Dusk" [level=5] [ref=e800]
+              - generic [ref=e801]:
+                - generic [ref=e802]: ₹4,549.00
+                - generic [ref=e803]: 9% OFF
+              - paragraph [ref=e804]: MRP ₹4,990.00
+            - generic [ref=e805]:
+              - generic [ref=e806]: 5% off on UPI payment
+              - img "Wishlist this product" [ref=e810]
+          - generic [ref=e812]:
+            - link "Havells Kace 75 GHRACAMF220 Desert Air Cooler with 75 Litres Capacity, White and Blue ₹10,499.00 53% OFF MRP ₹22,290.00 (72)" [ref=e813]:
+              - /url: /product/havells-kace-75-ghracamf220-desert-air-cooler-with-75-litres-capacity-white-and-blue-leecos
+              - img [ref=e815]
+              - heading "Havells Kace 75 GHRACAMF220 Desert Air Cooler with 75 Litres Capacity, White and Blue" [level=5] [ref=e816]
+              - generic [ref=e817]:
+                - generic [ref=e818]: ₹10,499.00
+                - generic [ref=e819]: 53% OFF
+              - paragraph [ref=e820]: MRP ₹22,290.00
+              - generic [ref=e825]:
+                - list [ref=e826]:
+                  - listitem [ref=e827]:
+                    - img [ref=e828]
+                  - listitem [ref=e830]:
+                    - img [ref=e831]
+                  - listitem [ref=e833]:
+                    - img [ref=e834]
+                  - listitem [ref=e836]:
+                    - img [ref=e837]
+                  - listitem [ref=e839]:
+                    - img [ref=e840]
+                - generic [ref=e842]: (72)
+            - generic [ref=e843]:
+              - generic [ref=e844]: Get 7% off using code COOLER7
+              - img "Wishlist this product" [ref=e848]
+          - generic [ref=e850]:
+            - link "Orient 95 L Optimo Desert Cooler ₹10,069.00 47% OFF MRP ₹18,990.00" [ref=e851]:
+              - /url: /product/orient-95-l-optimo-desert-cooler-mlhvfu-9901605
+              - img [ref=e853]
+              - heading "Orient 95 L Optimo Desert Cooler" [level=5] [ref=e854]
+              - generic [ref=e855]:
+                - generic [ref=e856]: ₹10,069.00
+                - generic [ref=e857]: 47% OFF
+              - paragraph [ref=e858]: MRP ₹18,990.00
+            - generic [ref=e859]:
+              - generic [ref=e860]: Get 7% off using code COOLER7
+              - img "Wishlist this product" [ref=e864]
+          - generic [ref=e866]:
+            - link "Bajaj Chetak 1200mm High Speed Ceiling Fan, Dark Brown ₹1,599.00 49% OFF MRP ₹3,150.00" [ref=e867]:
+              - /url: /product/bajaj-chetak-1200mm-high-speed-ceiling-fan-dark-brown-mmd0tk-9970027
+              - img [ref=e869]
+              - heading "Bajaj Chetak 1200mm High Speed Ceiling Fan, Dark Brown" [level=5] [ref=e870]
+              - generic [ref=e871]:
+                - generic [ref=e872]: ₹1,599.00
+                - generic [ref=e873]: 49% OFF
+              - paragraph [ref=e874]: MRP ₹3,150.00
+            - generic [ref=e875]:
+              - generic [ref=e876]: 5% off on UPI payment
+              - img "Wishlist this product" [ref=e880]
+          - generic [ref=e882]:
+            - link "Foxsky Blenza 120 L Desert Air Cooler with Honeycomb Cooling Pads, 100% Copper Motor ₹10,299.00 59% OFF MRP ₹24,999.00" [ref=e883]:
+              - /url: /product/foxsky-blenza-120-l-desert-air-cooler-with-honeycomb-cooling-pads-100-copper-motor-mljdk0-9902112
+              - img [ref=e885]
+              - heading "Foxsky Blenza 120 L Desert Air Cooler with Honeycomb Cooling Pads, 100% Copper Motor" [level=5] [ref=e886]
+              - generic [ref=e887]:
+                - generic [ref=e888]: ₹10,299.00
+                - generic [ref=e889]: 59% OFF
+              - paragraph [ref=e890]: MRP ₹24,999.00
+            - generic [ref=e891]:
+              - generic [ref=e892]: Get 7% off using code COOLER7
+              - img "Wishlist this product" [ref=e896]
+          - generic [ref=e898]:
+            - link "Voltas Tejas Desert Cooler, 85 L, Grey ₹13,999.00 33% OFF MRP ₹20,990.00" [ref=e899]:
+              - /url: /product/voltas-tejas-desert-cooler-85-l-grey-m73dbe-8887324
+              - img [ref=e901]
+              - heading "Voltas Tejas Desert Cooler, 85 L, Grey" [level=5] [ref=e902]
+              - generic [ref=e903]:
+                - generic [ref=e904]: ₹13,999.00
+                - generic [ref=e905]: 33% OFF
+              - paragraph [ref=e906]: MRP ₹20,990.00
+            - generic [ref=e907]:
+              - generic [ref=e908]: Get 7% off using code COOLER7
+              - img "Wishlist this product" [ref=e912]
+          - generic [ref=e914]:
+            - link "Symphony HiFlo 40 Personal Air Cooler, 40 Litres ₹6,690.00 33% OFF MRP ₹9,999.00" [ref=e915]:
+              - /url: /product/symphony-hiflo-40-personal-air-cooler-40-litres-lur4r7-7538174
+              - img [ref=e917]
+              - heading "Symphony HiFlo 40 Personal Air Cooler, 40 Litres" [level=5] [ref=e918]
+              - generic [ref=e919]:
+                - generic [ref=e920]: ₹6,690.00
+                - generic [ref=e921]: 33% OFF
+              - paragraph [ref=e922]: MRP ₹9,999.00
+            - img "Wishlist this product" [ref=e927]
+          - generic [ref=e929]:
+            - link "Blue Star Desert Aura Neo 75 L Air Cooler ₹10,739.00 37% OFF MRP ₹16,990.00" [ref=e930]:
+              - /url: /product/blue-star-desert-aura-neo-75-l-air-cooler-lsd9hl-7536388
+              - img [ref=e932]
+              - heading "Blue Star Desert Aura Neo 75 L Air Cooler" [level=5] [ref=e933]
+              - generic [ref=e934]:
+                - generic [ref=e935]: ₹10,739.00
+                - generic [ref=e936]: 37% OFF
+              - paragraph [ref=e937]: MRP ₹16,990.00
+            - generic [ref=e938]:
+              - generic [ref=e939]: Get 7% off using code COOLER7
+              - img "Wishlist this product" [ref=e943]
+          - generic [ref=e945]:
+            - link "Kenstar Arc 3D 50L Tower Air Cooler, White & Black ₹10,490.00 42% OFF MRP ₹18,190.00" [ref=e946]:
+              - /url: /product/kenstar-arc-3d-50l-tower-air-cooler-white-black-ml53vv-9870273
+              - img [ref=e948]
+              - heading "Kenstar Arc 3D 50L Tower Air Cooler, White & Black" [level=5] [ref=e949]
+              - generic [ref=e950]:
+                - generic [ref=e951]: ₹10,490.00
+                - generic [ref=e952]: 42% OFF
+              - paragraph [ref=e953]: MRP ₹18,190.00
+            - generic [ref=e954]:
+              - generic [ref=e955]: Get 7% off using code COOLER7
+              - img "Wishlist this product" [ref=e959]
+          - generic [ref=e961]:
+            - link "Havells Exter Neo 120 cm (1200 mm) Ceiling Fan, Midnight Black ₹2,499.00 30% OFF MRP ₹3,550.00" [ref=e962]:
+              - /url: /product/havells-exter-neo-120-cm-1200-mm-ceiling-fan-midnight-black-mn7fmq-9993818
+              - img [ref=e964]
+              - heading "Havells Exter Neo 120 cm (1200 mm) Ceiling Fan, Midnight Black" [level=5] [ref=e965]
+              - generic [ref=e966]:
+                - generic [ref=e967]: ₹2,499.00
+                - generic [ref=e968]: 30% OFF
+              - paragraph [ref=e969]: MRP ₹3,550.00
+            - generic [ref=e970]:
+              - generic [ref=e971]: 5% off on UPI payment
+              - img "Wishlist this product" [ref=e975]
+      - generic [ref=e979]:
+        - generic [ref=e980]:
+          - generic [ref=e981]:
+            - generic "Deals on Latest Tablets" [ref=e982]
+            - generic [ref=e983]: Upto 9 Months No Cost EMI on HDFC/ICICI/SBI*
+          - link "View all" [ref=e984] [cursor=pointer]:
+            - /url: /collection/best-selling-tablets-250502/?internal_source=hp&internal_medium=product-carousal&internal_campaign=best-selling-tablets&is_available=true
+            - generic [ref=e985]: View All
+            - img [ref=e987]
+        - generic [ref=e991] [cursor=pointer]:
+          - generic [ref=e992]:
+            - link "Apple iPad A16 11th Gen 2025 27.59 cm (11 inch) Wi-Fi Tablet, 128 GB, Silver, MD3Y4HN/A ₹33,900.00 3% OFF MRP ₹34,900.00 star-half (105)" [ref=e993]:
+              - /url: /product/apple-ipad-a16-11th-gen-2025-2759-cm-1086-inch-wi-fi-tablet-128-gb-silver-m7vtn8-8967038
+              - img [ref=e995]
+              - heading "Apple iPad A16 11th Gen 2025 27.59 cm (11 inch) Wi-Fi Tablet, 128 GB, Silver, MD3Y4HN/A" [level=5] [ref=e996]
+              - generic [ref=e997]:
+                - generic [ref=e998]: ₹33,900.00
+                - generic [ref=e999]: 3% OFF
+              - paragraph [ref=e1000]: MRP ₹34,900.00
+              - generic [ref=e1005]:
+                - list [ref=e1006]:
+                  - listitem [ref=e1007]:
+                    - img [ref=e1008]
+                  - listitem [ref=e1010]:
+                    - img [ref=e1011]
+                  - listitem [ref=e1013]:
+                    - img [ref=e1014]
+                  - listitem [ref=e1016]:
+                    - img "star-half" [ref=e1018]
+                  - listitem [ref=e1019]:
+                    - img [ref=e1020]
+                - generic [ref=e1022]: (105)
+            - generic [ref=e1023]:
+              - generic [ref=e1024]: ₹2K Instant CB+6M NCEMI
+              - img "Wishlist this product" [ref=e1028]
+          - generic [ref=e1030]:
+            - link "Lenovo Idea Tab 27.94 cm (11 inch) WiFi Tablet, 256 GB, 8 GB RAM, Grey, ZAFR0900IN ₹21,999.00 8% OFF MRP ₹24,000.00" [ref=e1031]:
+              - /url: /product/lenovo-idea-tab-2794-cm-11-inch-wifi-tablet-256-gb-8-gb-ram-grey-zafr0900in-mebctb-9336580
+              - img [ref=e1033]
+              - heading "Lenovo Idea Tab 27.94 cm (11 inch) WiFi Tablet, 256 GB, 8 GB RAM, Grey, ZAFR0900IN" [level=5] [ref=e1034]
+              - generic [ref=e1035]:
+                - generic [ref=e1036]: ₹21,999.00
+                - generic [ref=e1037]: 8% OFF
+              - paragraph [ref=e1038]: MRP ₹24,000.00
+            - generic [ref=e1039]:
+              - generic [ref=e1040]: 7.5% OFF OR 6 Month No Cost EMI*
+              - img "Wishlist this product" [ref=e1044]
+          - generic [ref=e1046]:
+            - link "Samsung Galaxy Tab S10 Lite 27.70 cm (10.9 Inch) Wi-Fi Tablet with S-Pen, 6 GB RAM, 128 GB, Gray, SM-X400NZAAINU ₹33,999.00 41% OFF MRP ₹57,999.00" [ref=e1047]:
+              - /url: /product/samsung-galaxy-tab-s10-lite-2770-cm-109-inch-wi-fi-tablet-with-s-pen-6-gb-ram-128-gb-gray-sm-x400nzaainu-mfgppl-9415894
+              - img [ref=e1049]
+              - heading "Samsung Galaxy Tab S10 Lite 27.70 cm (10.9 Inch) Wi-Fi Tablet with S-Pen, 6 GB RAM, 128 GB, Gray, SM-X400NZAAINU" [level=5] [ref=e1050]
+              - generic [ref=e1051]:
+                - generic [ref=e1052]: ₹33,999.00
+                - generic [ref=e1053]: 41% OFF
+              - paragraph [ref=e1054]: MRP ₹57,999.00
+            - generic [ref=e1055]:
+              - generic [ref=e1056]: 6 Months Easy EMI Available*
+              - img "Wishlist this product" [ref=e1060]
+          - generic [ref=e1062]:
+            - link "OnePlus Pad Lite 27.94 cm (11 inch) Wi-Fi Tablet 128 GB 6 GB RAM, Aero Blue, OPD2480 ₹17,999.00 10% OFF MRP ₹19,999.00" [ref=e1063]:
+              - /url: /product/oneplus-pad-lite-2794-cm-11-inch-wi-fi-tablet-128-gb-6-gb-ram-aero-blue-opd2480-mdohwt-9303690
+              - img [ref=e1065]
+              - heading "OnePlus Pad Lite 27.94 cm (11 inch) Wi-Fi Tablet 128 GB 6 GB RAM, Aero Blue, OPD2480" [level=5] [ref=e1066]
+              - generic [ref=e1067]:
+                - generic [ref=e1068]: ₹17,999.00
+                - generic [ref=e1069]: 10% OFF
+              - paragraph [ref=e1070]: MRP ₹19,999.00
+            - generic [ref=e1071]:
+              - generic [ref=e1072]: ₹2K Instant CB+6M NCEMI*
+              - img "Wishlist this product" [ref=e1076]
+          - generic [ref=e1078]:
+            - link "Redmi Pad 2 27.94 cm (11 inch) Wi-Fi + LTE Tablet, 8 GB RAM, 256 GB, Graphite Grey, VHU5783IN ₹20,999.00 5% OFF MRP ₹21,999.00" [ref=e1079]:
+              - /url: /product/redmi-pad-2-2794-cm-11-inch-wi-fi-lte-tablet-8-gb-ram-256-gb-graphite-grey-vhu5783in-mca5dj-9267217
+              - img [ref=e1081]
+              - heading "Redmi Pad 2 27.94 cm (11 inch) Wi-Fi + LTE Tablet, 8 GB RAM, 256 GB, Graphite Grey, VHU5783IN" [level=5] [ref=e1082]
+              - generic [ref=e1083]:
+                - generic [ref=e1084]: ₹20,999.00
+                - generic [ref=e1085]: 5% OFF
+              - paragraph [ref=e1086]: MRP ₹21,999.00
+            - generic [ref=e1087]:
+              - generic [ref=e1088]: 7.5% Instant Disc on Credit Cards*
+              - img "Wishlist this product" [ref=e1092]
+          - generic [ref=e1094]:
+            - link "Samsung Tablet A11+ 27.94 cm (11 Inch) Wi-Fi Tablet, 8 GB RAM, 256 GB, Gray, SM-X230NZAEINS ₹30,999.00 39% OFF MRP ₹50,999.00" [ref=e1095]:
+              - /url: /product/samsung-tablet-a11-2794-cm-11-inch-wi-fi-tablet-8-gb-ram-256-gb-gray-sm-x230nzaeins-miftx3-9653440
+              - img [ref=e1097]
+              - heading "Samsung Tablet A11+ 27.94 cm (11 Inch) Wi-Fi Tablet, 8 GB RAM, 256 GB, Gray, SM-X230NZAEINS" [level=5] [ref=e1098]
+              - generic [ref=e1099]:
+                - generic [ref=e1100]: ₹30,999.00
+                - generic [ref=e1101]: 39% OFF
+              - paragraph [ref=e1102]: MRP ₹50,999.00
+            - generic [ref=e1103]:
+              - generic [ref=e1104]: 6 Months Easy EMI Available*
+              - img "Wishlist this product" [ref=e1108]
+          - generic [ref=e1110]:
+            - link "Lenovo Tab 25.65 cm (10.1 inch) Wi-Fi Tablet, 4 GB RAM, 128 GB, Blue, ZAEH0180IN (2025) ₹14,999.00 21% OFF MRP ₹19,000.00" [ref=e1111]:
+              - /url: /product/lenovo-tab-2565-cm-101-inch-wi-fi-tablet-4-gb-ram-128-gb-blue-zaeh0180in-2025-me6x9t-9320864
+              - img [ref=e1113]
+              - heading "Lenovo Tab 25.65 cm (10.1 inch) Wi-Fi Tablet, 4 GB RAM, 128 GB, Blue, ZAEH0180IN (2025)" [level=5] [ref=e1114]
+              - generic [ref=e1115]:
+                - generic [ref=e1116]: ₹14,999.00
+                - generic [ref=e1117]: 21% OFF
+              - paragraph [ref=e1118]: MRP ₹19,000.00
+            - generic [ref=e1119]:
+              - generic [ref=e1120]: 7.5% OFF OR 6 Month No Cost EMI*
+              - img "Wishlist this product" [ref=e1124]
+          - generic [ref=e1126]:
+            - link "Redmi Pad SE 22.09 cm (8.7 inch) Tablet 4 GB RAM, 128 GB, Grey VHU4939IN ₹10,999.00 35% OFF MRP ₹16,999.00" [ref=e1127]:
+              - /url: /product/redmi-pad-se-2209-cm-87-inch-tablet-4-gb-ram-128-gb-grey-vhu4939in-m10e2q-8593525
+              - img [ref=e1129]
+              - heading "Redmi Pad SE 22.09 cm (8.7 inch) Tablet 4 GB RAM, 128 GB, Grey VHU4939IN" [level=5] [ref=e1130]
+              - generic [ref=e1131]:
+                - generic [ref=e1132]: ₹10,999.00
+                - generic [ref=e1133]: 35% OFF
+              - paragraph [ref=e1134]: MRP ₹16,999.00
+            - generic [ref=e1135]:
+              - generic [ref=e1136]: 7.5% Instant Disc on Credit Cards*
+              - img "Wishlist this product" [ref=e1140]
+          - generic [ref=e1142]:
+            - link "Apple iPad Air M3 27.59 cm (11 inch) Wi-Fi Tablet, 128 GB, Space Grey, 2025, MC9W4HN/A ₹59,900.00" [ref=e1143]:
+              - /url: /product/apple-ipad-air-m3-2759-cm-11-inch-wi-fi-tablet-128-gb-space-grey-2025-m7vvz1-8967227
+              - img [ref=e1145]
+              - heading "Apple iPad Air M3 27.59 cm (11 inch) Wi-Fi Tablet, 128 GB, Space Grey, 2025, MC9W4HN/A" [level=5] [ref=e1146]
+              - generic [ref=e1148]: ₹59,900.00
+            - generic [ref=e1149]:
+              - generic [ref=e1150]: ₹3K Instant CB+6M NCEMI
+              - img "Wishlist this product" [ref=e1154]
+          - generic [ref=e1156]:
+            - link "Lenovo Tab Plus 28.06 cm (11.5 inch) WiFi Tablet, 256 GB, 8 GB RAM, Luna Grey, ZADX0099IN ₹25,999.00 24% OFF MRP ₹34,000.00 star-half (14)" [ref=e1157]:
+              - /url: /product/lenovo-tab-plus-2806-cm-115-inch-wifi-tablet-256-gb-8-gb-ram-luna-grey-zadx0099in-lyt6u5-7999707
+              - img [ref=e1159]
+              - heading "Lenovo Tab Plus 28.06 cm (11.5 inch) WiFi Tablet, 256 GB, 8 GB RAM, Luna Grey, ZADX0099IN" [level=5] [ref=e1160]
+              - generic [ref=e1161]:
+                - generic [ref=e1162]: ₹25,999.00
+                - generic [ref=e1163]: 24% OFF
+              - paragraph [ref=e1164]: MRP ₹34,000.00
+              - generic [ref=e1169]:
+                - list [ref=e1170]:
+                  - listitem [ref=e1171]:
+                    - img [ref=e1172]
+                  - listitem [ref=e1174]:
+                    - img [ref=e1175]
+                  - listitem [ref=e1177]:
+                    - img [ref=e1178]
+                  - listitem [ref=e1180]:
+                    - img "star-half" [ref=e1182]
+                  - listitem [ref=e1183]:
+                    - img [ref=e1184]
+                - generic [ref=e1186]: (14)
+            - img "Wishlist this product" [ref=e1191]
+    - generic [ref=e1198]:
+      - generic [ref=e1199]:
+        - generic [ref=e1200]:
+          - generic [ref=e1201]:
+            - generic [ref=e1202]: Product Categories
+            - generic [ref=e1203]:
+              - link "goto Smartphones" [ref=e1204] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/collection/mobiles/?internal_source=navigation
+                - text: Smartphones
+              - link "goto Laptops" [ref=e1205] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/collection/laptops
+                - text: Laptops
+              - link "goto DSLR Cameras" [ref=e1206] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/collection/dslr-cameras
+                - text: DSLR Cameras
+              - link "goto Televisions" [ref=e1207] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/sections/televisions
+                - text: Televisions
+              - link "goto Air Conditioners" [ref=e1208] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/collection/air-conditioners
+                - text: Air Conditioners
+              - link "goto Refrigerator":
+                - /url: undefined
+                - text: Refrigerator
+              - link "goto Kitchen Appliances" [ref=e1209] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/collection/kitchen-appliances
+                - text: Kitchen Appliances
+              - link "goto Accessories" [ref=e1210] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/collection/accessories
+                - text: Accessories
+              - link "goto Personal Care & Grooming" [ref=e1211] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/collection/personal-care-grooming
+                - text: Personal Care & Grooming
+          - generic [ref=e1212]:
+            - generic [ref=e1213]: Site Info
+            - generic [ref=e1214]:
+              - link "goto About Reliance Digital" [ref=e1215] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/about-reliance-digital
+                - text: About Reliance Digital
+              - link "goto resQ Services" [ref=e1216] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/resQ-services
+                - text: resQ Services
+              - link "goto Site Map" [ref=e1217] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/all-categories
+                - text: Site Map
+              - link "goto Gift Cards" [ref=e1218] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/gift-cards
+                - text: Gift Cards
+              - link "goto Corporate Enquiries" [ref=e1219] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/corporate-enquires
+                - text: Corporate Enquiries
+              - link "goto Contact Us" [ref=e1220] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/contact-us
+                - text: Contact Us
+          - generic [ref=e1221]:
+            - generic [ref=e1222]: Resource Center
+            - generic [ref=e1223]:
+              - link "goto Buying Guides" [ref=e1224] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/resource-center/buying-guides
+                - text: Buying Guides
+              - link "goto Manuals" [ref=e1225] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/resource-center/manuals
+                - text: Manuals
+              - link "goto How To's" [ref=e1226] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/resource-center/how-tos
+                - text: How To's
+              - link "goto Compare Products" [ref=e1227] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/resource-center/compare
+                - text: Compare Products
+              - link "goto Nearest Store" [ref=e1228] [cursor=pointer]:
+                - /url: https://www.reliancedigitalstores.in/
+                - text: Nearest Store
+          - generic [ref=e1229]:
+            - generic [ref=e1230]: Policies
+            - generic [ref=e1231]:
+              - link "goto Terms of Use" [ref=e1232] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/terms-of-use
+                - text: Terms of Use
+              - link "goto FAQs" [ref=e1233] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/faqs
+                - text: FAQs
+              - link "goto Cancellation and Returns Policy" [ref=e1234] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/cancellation-and-return-policy
+                - text: Cancellation and Returns Policy
+              - link "goto Pricing & Payments Policy" [ref=e1235] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/pricing-and-payments-policy
+                - text: Pricing & Payments Policy
+              - link "goto Privacy Policy" [ref=e1236] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/privacy-policy
+                - text: Privacy Policy
+              - link "goto E-waste Recycling Policy" [ref=e1237] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/e-waste-recycling-policy
+                - text: E-waste Recycling Policy
+              - link "goto EMI and Additional Cashback T&C" [ref=e1238] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/emi-and-additional-cashback-terms-and-conditions
+                - text: EMI and Additional Cashback T&C
+              - link "goto RelianceOne Loyalty Program T&C" [ref=e1239] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/relianceone-loyalty-program-terms-and-conditions
+                - text: RelianceOne Loyalty Program T&C
+              - link "goto Caution Notice" [ref=e1240] [cursor=pointer]:
+                - /url: https://www.reliancedigital.in/c/caution-notice
+                - text: Caution Notice
+        - generic [ref=e1241]:
+          - generic [ref=e1242]:
+            - img "footerBannerDataIcon" [ref=e1244]
+            - generic [ref=e1245]:
+              - generic [ref=e1246]: Experience Reliance digital app on mobile
+              - link "Google Playstore" [ref=e1249] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=in.digital.reliance
+                - img "Google Playstore" [ref=e1250]
+              - link "Apple Appstore" [ref=e1253] [cursor=pointer]:
+                - /url: https://apps.apple.com/in/app/reliance-digital-shopping-app/id1513379107
+                - img "Apple Appstore" [ref=e1254]
+          - generic [ref=e1255]:
+            - generic [ref=e1256]: Follow us
+            - generic [ref=e1257]:
+              - link "Facebook" [ref=e1259] [cursor=pointer]:
+                - /url: https://www.facebook.com/reliancedigital/
+                - img "Facebook" [ref=e1260]
+              - link "Twitter" [ref=e1262] [cursor=pointer]:
+                - /url: https://twitter.com/reliancedigital
+                - img "Twitter" [ref=e1263]
+              - link "Youtube" [ref=e1265] [cursor=pointer]:
+                - /url: https://www.youtube.com/reliancedigital
+                - img "Youtube" [ref=e1266]
+        - generic [ref=e1267]:
+          - generic [ref=e1268]: Disclaimer
+          - generic [ref=e1269]: Product prices, offers and availability are subject to change from time to time. All prices are inclusive of taxes. Product colours & images are only for illustration and they may not exactly match with the actual product. Product specs are subject to change & may vary from actual product. While every care is taken to avoid inaccuracies in content, these are provided as is, without warranty of any kind.
+      - generic [ref=e1273]: Copyright © 2023 Reliance Digital. All rights reserved.
+  - status
